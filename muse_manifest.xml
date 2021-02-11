@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1613059690081">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1613059901272">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4025143442" ref="index"/>
@@ -26,5 +26,5 @@
     </file>
   </folder>
   <file name="index.html" crc="4086329606" seo="true" mt="1613057977570" redirect="true"/>
-  <file name="second-page.html" crc="4293636921" seo="true" mt="1613059677319" redirect="true"/>
+  <file name="second-page.html" crc="3878052249" seo="true" mt="1613059677319" redirect="true"/>
 </manifest>
