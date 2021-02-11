@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1613058014331">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1613059159664">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4025143442" ref="index"/>
-    <file name="second-page.css" crc="4233392149" ref="second-page"/>
+    <file name="second-page.css" crc="19182661" ref="second-page"/>
   </folder>
   <folder name="assets">
     <file name="70.jpg" crc="3827401796" seo="true" mt="1611784398000"/>
@@ -18,7 +18,7 @@
     <file name="form_check.php" crc="147359589" ref="second-page"/>
     <file name="form_throttle.php" crc="93986428" ref="second-page"/>
     <file name="form_process.php" crc="3851993751" ref="second-page"/>
-    <file name="form-u131.php" crc="454604394" ref="second-page"/>
+    <file name="form-u131.php" crc="4091631064" ref="second-page"/>
   </folder>
   <folder name="images">
     <file name="70.jpg" crc="376046150" seo="true" ref="index">
@@ -26,5 +26,5 @@
     </file>
   </folder>
   <file name="index.html" crc="4086329606" seo="true" mt="1613057977570" redirect="true"/>
-  <file name="second-page.html" crc="352461539" seo="true" mt="1613057977571" redirect="true"/>
+  <file name="second-page.html" crc="355952051" seo="true" mt="1613059140303" redirect="true"/>
 </manifest>
