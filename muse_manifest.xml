@@ -1,0 +1,39 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1613056029384">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="upsell.css" crc="4214489669" ref="upsell"/>
+    <file name="thank-you-page.css" crc="3862821852" ref="thank-you-page"/>
+    <file name="___-4.css" crc="258930415" ref="未命名-4"/>
+    <file name="___-3.css" crc="3832190509" ref="未命名-3"/>
+    <file name="index.css" crc="3888770564" ref="index"/>
+    <file name="___-4__.css" crc="19630191" ref="未命名-4副本"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:upsell:未命名-3:未命名-4:未命名-4副本:thank-you-page"/>
+    <file name="museutils.js" crc="3803043152" ref="index:upsell:未命名-3:未命名-4:未命名-4副本:thank-you-page"/>
+    <file name="whatinput.js" crc="86476730" ref="index:upsell:未命名-3:未命名-4:未命名-4副本:thank-you-page"/>
+    <file name="museconfig.js" crc="380897831" ref="index:upsell:未命名-3:未命名-4:未命名-4副本:thank-you-page"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:upsell:未命名-3:未命名-4:未命名-4副本:thank-you-page"/>
+    <file name="require.js" crc="4157109226" ref="index:upsell:未命名-3:未命名-4:未命名-4副本:thank-you-page"/>
+    <file name="webpro.js" crc="242022427" ref="未命名-3"/>
+    <file name="form_check.php" crc="147359589" ref="未命名-3"/>
+    <file name="form_throttle.php" crc="93986428" ref="未命名-3"/>
+    <file name="form_process.php" crc="3851993751" ref="未命名-3"/>
+    <file name="form-u741.php" crc="51244313" ref="未命名-3"/>
+  </folder>
+  <folder name="images">
+    <file name="u463-8.png" crc="153173654" ref="index"/>
+    <file name="shopping_cart_png37.png" crc="311703410" seo="true" ref="upsell:未命名-4:未命名-4副本">
+      <caption webpage="未命名-4" alt=""/>
+      <caption webpage="未命名-4副本" alt=""/>
+      <caption webpage="upsell" alt=""/>
+    </file>
+    <file name="u792-8.png" crc="48037731" ref="未命名-3"/>
+  </folder>
+  <file name="index.html" crc="4224752563" seo="true" mt="1609444901083" redirect="true"/>
+  <file name="upsell.html" crc="4042696842" seo="true" mt="1609443886515" redirect="true"/>
+  <file name="未命名-3.html" crc="140056845" seo="true" mt="1609444862117" redirect="true"/>
+  <file name="未命名-4.html" crc="3769253370" seo="true" mt="1609444417533" redirect="true"/>
+  <file name="未命名-4副本.html" crc="4037490894" seo="true" mt="1609443866703" redirect="true"/>
+  <file name="thank-you-page.html" crc="88105376" seo="true" mt="1609444127568" redirect="true"/>
+</manifest>
