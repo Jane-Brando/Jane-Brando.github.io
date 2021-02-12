@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1613059901272">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1613103932169">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4025143442" ref="index"/>
-    <file name="second-page.css" crc="3838716236" ref="second-page"/>
+    <file name="second-page.css" crc="3872094939" ref="second-page"/>
   </folder>
   <folder name="assets">
     <file name="70.jpg" crc="3827401796" seo="true" mt="1611784398000"/>
@@ -14,11 +14,6 @@
     <file name="museconfig.js" crc="380897831" ref="index:second-page"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:second-page"/>
     <file name="require.js" crc="4157109226" ref="index:second-page"/>
-    <file name="webpro.js" crc="242022427" ref="second-page"/>
-    <file name="form_check.php" crc="147359589" ref="second-page"/>
-    <file name="form_throttle.php" crc="93986428" ref="second-page"/>
-    <file name="form_process.php" crc="3851993751" ref="second-page"/>
-    <file name="form-u131.php" crc="4230186881" ref="second-page"/>
   </folder>
   <folder name="images">
     <file name="70.jpg" crc="376046150" seo="true" ref="index">
@@ -26,5 +21,5 @@
     </file>
   </folder>
   <file name="index.html" crc="4086329606" seo="true" mt="1613057977570" redirect="true"/>
-  <file name="second-page.html" crc="3878052249" seo="true" mt="1613059677319" redirect="true"/>
+  <file name="second-page.html" crc="3893155697" seo="true" mt="1613103910123" redirect="true"/>
 </manifest>
