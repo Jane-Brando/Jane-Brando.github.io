@@ -16,6 +16,15 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://Jane-Brando.github.io/first-name.html</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Jane-Brando.github.io/images/abc%20janebrando.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://Jane-Brando.github.io/assets/70.jpg</loc>
     <lastmod>2021-01-28</lastmod>
     <changefreq>weekly</changefreq>
