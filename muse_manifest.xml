@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1614362972963">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1614363588335">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4290935628" ref="index"/>
+    <file name="index.css" crc="4168636538" ref="index"/>
     <file name="second-page.css" crc="4154670242" ref="second-page"/>
     <file name="first-name.css" crc="3795938650" ref="first-name"/>
   </folder>
@@ -18,13 +18,13 @@
   </folder>
   <folder name="images">
     <file name="u318-11.png" crc="3961910076" ref="first-name"/>
-    <file name="abc janebrando.jpg" crc="247718348" seo="true" ref="index:first-name">
+    <file name="abc janebrando.jpg" crc="4229892065" seo="true" ref="index:first-name">
       <caption webpage="index" alt=""/>
       <caption webpage="first-name" alt=""/>
     </file>
-    <file name="u493-11.png" crc="3961910076" ref="index"/>
+    <file name="u493-11.png" crc="261882829" ref="index"/>
   </folder>
-  <file name="index.html" crc="340938758" seo="true" mt="1614362950841" redirect="true"/>
+  <file name="index.html" crc="32536588" seo="true" mt="1614363382231" redirect="true"/>
   <file name="second-page.html" crc="136274203" seo="true" mt="1614360943964" redirect="true"/>
   <file name="first-name.html" crc="481382066" seo="true" mt="1614362950846" redirect="true"/>
 </manifest>
