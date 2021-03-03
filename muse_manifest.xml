@@ -1,25 +1,26 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1614707547704">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1614774987261">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="474519365" ref="index"/>
-    <file name="second-page.css" crc="4273420642" ref="second-page"/>
+    <file name="index.css" crc="366247339" ref="index"/>
+    <file name="second-page.css" crc="4265737617" ref="second-page"/>
     <file name="first-name.css" crc="3795938650" ref="first-name"/>
-    <file name="thank-you-page.css" crc="218577125" ref="thank-you-page"/>
+    <file name="thank-you-page.css" crc="3936596276" ref="thank-you-page"/>
     <file name="third-page.css" crc="3917687091" ref="third-page"/>
     <file name="thank-you-page-2.css" crc="3771974934" ref="thank-you-page-2"/>
     <file name="thank-you-page-3.css" crc="3819767338" ref="thank-you-page-3"/>
     <file name="four-page-copy.css" crc="4390220" ref="four-page-copy"/>
+    <file name="thank-you-page-4.css" crc="425413003" ref="thank-you-page-4"/>
   </folder>
   <folder name="assets">
     <file name="70.jpg" crc="3827401796" seo="true" mt="1611784398000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:second-page:first-name:thank-you-page:third-page:thank-you-page-3:thank-you-page-2:four-page-copy"/>
-    <file name="museutils.js" crc="3803043152" ref="index:second-page:first-name:thank-you-page:third-page:thank-you-page-3:thank-you-page-2:four-page-copy"/>
-    <file name="whatinput.js" crc="86476730" ref="index:second-page:first-name:thank-you-page:third-page:thank-you-page-3:thank-you-page-2:four-page-copy"/>
-    <file name="museconfig.js" crc="380897831" ref="index:second-page:first-name:thank-you-page:third-page:thank-you-page-3:thank-you-page-2:four-page-copy"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:second-page:first-name:thank-you-page:third-page:thank-you-page-3:thank-you-page-2:four-page-copy"/>
-    <file name="require.js" crc="4157109226" ref="index:second-page:first-name:thank-you-page:third-page:thank-you-page-3:thank-you-page-2:four-page-copy"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:second-page:first-name:thank-you-page:third-page:thank-you-page-3:thank-you-page-2:four-page-copy:thank-you-page-4"/>
+    <file name="museutils.js" crc="3803043152" ref="index:second-page:first-name:thank-you-page:third-page:thank-you-page-3:thank-you-page-2:four-page-copy:thank-you-page-4"/>
+    <file name="whatinput.js" crc="86476730" ref="index:second-page:first-name:thank-you-page:third-page:thank-you-page-3:thank-you-page-2:four-page-copy:thank-you-page-4"/>
+    <file name="museconfig.js" crc="380897831" ref="index:second-page:first-name:thank-you-page:third-page:thank-you-page-3:thank-you-page-2:four-page-copy:thank-you-page-4"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:second-page:first-name:thank-you-page:third-page:thank-you-page-3:thank-you-page-2:four-page-copy:thank-you-page-4"/>
+    <file name="require.js" crc="4157109226" ref="index:second-page:first-name:thank-you-page:third-page:thank-you-page-3:thank-you-page-2:four-page-copy:thank-you-page-4"/>
   </folder>
   <folder name="images">
     <file name="u318-11.png" crc="3961910076" ref="first-name"/>
@@ -59,12 +60,13 @@
     </file>
     <file name="u805-40.png" crc="387525234" ref="four-page-copy"/>
   </folder>
-  <file name="index.html" crc="3983815612" seo="true" mt="1614701165677" redirect="true"/>
-  <file name="second-page.html" crc="237859458" seo="true" mt="1614707481703" redirect="true"/>
+  <file name="index.html" crc="129404142" seo="true" mt="1614774972910" redirect="true"/>
+  <file name="second-page.html" crc="511643670" seo="true" mt="1614707741140" redirect="true"/>
   <file name="first-name.html" crc="481382066" seo="true" mt="1614362950846" redirect="true"/>
-  <file name="thank-you-page.html" crc="3905537937" seo="true" mt="1614627800382" redirect="true"/>
+  <file name="thank-you-page.html" crc="4011668184" seo="true" mt="1614708102824" redirect="true"/>
   <file name="third-page.html" crc="3951051256" seo="true" mt="1614701027859" redirect="true"/>
   <file name="thank-you-page-3.html" crc="531552764" seo="true" mt="1614704274630" redirect="true"/>
   <file name="thank-you-page-2.html" crc="62735831" seo="true" mt="1614704263817" redirect="true"/>
   <file name="four-page-copy.html" crc="3805313736" seo="true" mt="1614704570240" redirect="true"/>
+  <file name="thank-you-page-4.html" crc="136755484" seo="true" mt="1614708048222" redirect="true"/>
 </manifest>
