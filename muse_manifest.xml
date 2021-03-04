@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1614836875783">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1614837261909">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="366247339" ref="index"/>
-    <file name="second-page.css" crc="3776663276" ref="second-page"/>
+    <file name="second-page.css" crc="3872489972" ref="second-page"/>
     <file name="first-name.css" crc="3795938650" ref="first-name"/>
     <file name="thank-you-page.css" crc="4218015365" ref="thank-you-page"/>
     <file name="third-page.css" crc="4150036689" ref="third-page"/>
@@ -32,7 +32,7 @@
     <file name="u374-4.png" crc="414966603" ref="second-page"/>
     <file name="u377-4.png" crc="248640405" ref="second-page"/>
     <file name="blank.gif" crc="4208392903" ref="second-page:thank-you-page:third-page:thank-you-page-2:thank-you-page-2-copy-2:thank-you-page-2-copy-2-copy"/>
-    <file name="u565-8.png" crc="397862624" ref="second-page"/>
+    <file name="u565-8.png" crc="295769006" ref="second-page"/>
     <file name="u686-8.png" crc="4156953246" ref="third-page"/>
     <file name="crown_png23.png" crc="362091486" seo="true" ref="four-page-copy">
       <caption webpage="third-page-copy" alt=""/>
@@ -53,10 +53,10 @@
       <caption webpage="third-page-copy" alt=""/>
       <caption webpage="four-page-copy" alt=""/>
     </file>
-    <file name="u1059.png" crc="3924393389" ref="second-page"/>
-    <file name="u1059-r.png" crc="4223523306" ref="second-page"/>
-    <file name="u1095.png" crc="126981710" ref="second-page"/>
-    <file name="u1095-r.png" crc="4125210894" ref="second-page"/>
+    <file name="u1059.png" crc="534029691" ref="second-page"/>
+    <file name="u1059-r.png" crc="3965342653" ref="second-page"/>
+    <file name="u1095.png" crc="310867171" ref="second-page"/>
+    <file name="u1095-r.png" crc="122256796" ref="second-page"/>
     <file name="u833-17.png" crc="151046700" ref="thank-you-page"/>
     <file name="u984.png" crc="447987182" ref="thank-you-page"/>
     <file name="u984-r.png" crc="388151126" ref="thank-you-page"/>
@@ -101,7 +101,7 @@
     <file name="u1238-r.png" crc="3965342653" ref="second-page"/>
   </folder>
   <file name="index.html" crc="129404142" seo="true" mt="1614825525682" redirect="true"/>
-  <file name="second-page.html" crc="355461705" seo="true" mt="1614836857286" redirect="true"/>
+  <file name="second-page.html" crc="4269888492" seo="true" mt="1614837223073" redirect="true"/>
   <file name="first-name.html" crc="481382066" seo="true" mt="1614362950846" redirect="true"/>
   <file name="thank-you-page.html" crc="3845477043" seo="true" mt="1614824740817" redirect="true"/>
   <file name="third-page.html" crc="4218889184" seo="true" mt="1614827212557" redirect="true"/>
