@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1614839786573">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1614840368614">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4245990872" ref="index"/>
+    <file name="index.css" crc="423792582" ref="index"/>
     <file name="thank-you-page.css" crc="4218015365" ref="thank-you-page"/>
     <file name="become-the-emperor_.css" crc="4037638836" ref="become-the-emperor!"/>
     <file name="thank-you-page-for-king-level-membership.css" crc="66233145" ref="thank-you-page-for-king-level-membership"/>
@@ -22,7 +22,7 @@
     <file name="require.js" crc="4157109226" ref="index:thank-you-page:the-special-offer-to-join-my-membership!:become-the-emperor!:thank-you-page-for-normal-member:thank-you-page-for-king-level-membership:thank-you-page-for-emperor-level-membership:become-the-king!"/>
   </folder>
   <folder name="images">
-    <file name="u493-11.png" crc="485073580" ref="index"/>
+    <file name="u493-11.png" crc="4279998024" ref="index"/>
     <file name="u374-4.png" crc="414966603" ref="the-special-offer-to-join-my-membership!"/>
     <file name="u377-4.png" crc="248640405" ref="the-special-offer-to-join-my-membership!"/>
     <file name="blank.gif" crc="4208392903" ref="thank-you-page:the-special-offer-to-join-my-membership!:thank-you-page-for-normal-member:thank-you-page-for-king-level-membership:thank-you-page-for-emperor-level-membership:become-the-king!"/>
@@ -107,7 +107,7 @@
       <caption webpage="become-the-emperor!" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4220195911" seo="true" mt="1614839766111" redirect="true"/>
+  <file name="index.html" crc="443005745" seo="true" mt="1614840340744" redirect="true"/>
   <file name="thank-you-page.html" crc="3845477043" seo="true" mt="1614824740817" redirect="true"/>
   <file name="the-special-offer-to-join-my-membership!.html" crc="183630184" seo="true" mt="1614839379889" redirect="true"/>
   <file name="become-the-emperor!.html" crc="78392936" seo="true" mt="1614839379892" redirect="true"/>
