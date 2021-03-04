@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1614836726908">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1614836875783">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="366247339" ref="index"/>
-    <file name="second-page.css" crc="340175330" ref="second-page"/>
+    <file name="second-page.css" crc="3776663276" ref="second-page"/>
     <file name="first-name.css" crc="3795938650" ref="first-name"/>
     <file name="thank-you-page.css" crc="4218015365" ref="thank-you-page"/>
     <file name="third-page.css" crc="4150036689" ref="third-page"/>
@@ -97,11 +97,11 @@
     <file name="u1199-r.png" crc="3934973371" ref="thank-you-page-2-copy-2-copy"/>
     <file name="u1211.png" crc="4197125704" ref="thank-you-page-2-copy-2-copy"/>
     <file name="u1211-r.png" crc="4231710348" ref="thank-you-page-2-copy-2-copy"/>
-    <file name="u1238.png" crc="3924393389" ref="second-page"/>
-    <file name="u1238-r.png" crc="4223523306" ref="second-page"/>
+    <file name="u1238.png" crc="534029691" ref="second-page"/>
+    <file name="u1238-r.png" crc="3965342653" ref="second-page"/>
   </folder>
   <file name="index.html" crc="129404142" seo="true" mt="1614825525682" redirect="true"/>
-  <file name="second-page.html" crc="4195696635" seo="true" mt="1614836692725" redirect="true"/>
+  <file name="second-page.html" crc="355461705" seo="true" mt="1614836857286" redirect="true"/>
   <file name="first-name.html" crc="481382066" seo="true" mt="1614362950846" redirect="true"/>
   <file name="thank-you-page.html" crc="3845477043" seo="true" mt="1614824740817" redirect="true"/>
   <file name="third-page.html" crc="4218889184" seo="true" mt="1614827212557" redirect="true"/>
