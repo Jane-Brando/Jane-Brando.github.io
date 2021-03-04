@@ -15,10 +15,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://Jane-Brando.github.io/images/coin%20maker%20final.png</image:loc>
+      <image:loc>http://Jane-Brando.github.io/images/crown_png23251x205.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Jane-Brando.github.io/images/crown_png23251x205.png</image:loc>
+      <image:loc>http://Jane-Brando.github.io/images/coin%20maker%20final240x240.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -46,6 +46,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://Jane-Brando.github.io/thank-you-page-2-copy-2.html</loc>
+    <lastmod>2021-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Jane-Brando.github.io/thank-you-page-2.html</loc>
+    <lastmod>2021-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://Jane-Brando.github.io/four-page-copy.html</loc>
     <lastmod>2021-03-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -64,22 +76,22 @@
     </image:image>
   </url>
   <url>
-    <loc>http://Jane-Brando.github.io/thank-you-page-2.html</loc>
-    <lastmod>2021-03-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Jane-Brando.github.io/thank-you-page-2-copy-2.html</loc>
-    <lastmod>2021-03-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://Jane-Brando.github.io/thank-you-page-2-copy-2-copy.html</loc>
     <lastmod>2021-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Jane-Brando.github.io/second-page-copy.html</loc>
+    <lastmod>2021-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Jane-Brando.github.io/images/crown_png23.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Jane-Brando.github.io/images/coin%20maker%20final.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://Jane-Brando.github.io/assets/70.jpg</loc>
