@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1614836089282">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1614836332325">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="366247339" ref="index"/>
-    <file name="second-page.css" crc="4110474337" ref="second-page"/>
+    <file name="second-page.css" crc="3969150485" ref="second-page"/>
     <file name="first-name.css" crc="3795938650" ref="first-name"/>
     <file name="thank-you-page.css" crc="4218015365" ref="thank-you-page"/>
     <file name="third-page.css" crc="4150036689" ref="third-page"/>
@@ -29,8 +29,8 @@
       <caption webpage="first-name" alt=""/>
     </file>
     <file name="u493-11.png" crc="261882829" ref="index"/>
-    <file name="u374-4.png" crc="92356064" ref="second-page"/>
-    <file name="u377-4.png" crc="4001098769" ref="second-page"/>
+    <file name="u374-4.png" crc="414966603" ref="second-page"/>
+    <file name="u377-4.png" crc="248640405" ref="second-page"/>
     <file name="blank.gif" crc="4208392903" ref="second-page:thank-you-page:third-page:thank-you-page-2:thank-you-page-2-copy-2:thank-you-page-2-copy-2-copy"/>
     <file name="u565-8.png" crc="397862624" ref="second-page"/>
     <file name="u686-8.png" crc="4156953246" ref="third-page"/>
@@ -41,9 +41,9 @@
     </file>
     <file name="coin maker final.png" crc="3971675616" seo="true" ref="third-page:four-page-copy:second-page">
       <caption webpage="four-page-copy" alt=""/>
+      <caption webpage="third-page-copy" alt=""/>
       <caption webpage="second-page" alt=""/>
       <caption webpage="third-page" alt=""/>
-      <caption webpage="third-page-copy" alt=""/>
     </file>
     <file name="e22f624e36c255ce2f7ce770db78ed48.png" crc="3791146352" seo="true" ref="four-page-copy">
       <caption webpage="third-page-copy" alt=""/>
@@ -101,7 +101,7 @@
     <file name="u1238-r.png" crc="4223523306" ref="second-page"/>
   </folder>
   <file name="index.html" crc="129404142" seo="true" mt="1614825525682" redirect="true"/>
-  <file name="second-page.html" crc="138241286" seo="true" mt="1614836072312" redirect="true"/>
+  <file name="second-page.html" crc="231659941" seo="true" mt="1614836313397" redirect="true"/>
   <file name="first-name.html" crc="481382066" seo="true" mt="1614362950846" redirect="true"/>
   <file name="thank-you-page.html" crc="3845477043" seo="true" mt="1614824740817" redirect="true"/>
   <file name="third-page.html" crc="4218889184" seo="true" mt="1614827212557" redirect="true"/>
