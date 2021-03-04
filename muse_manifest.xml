@@ -1,127 +1,118 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1614838866203">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1614839786573">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="366247339" ref="index"/>
-    <file name="second-page.css" crc="3872489972" ref="second-page"/>
-    <file name="first-name.css" crc="3795938650" ref="first-name"/>
+    <file name="index.css" crc="4245990872" ref="index"/>
     <file name="thank-you-page.css" crc="4218015365" ref="thank-you-page"/>
-    <file name="third-page.css" crc="3788278646" ref="third-page"/>
-    <file name="thank-you-page-2.css" crc="3864330704" ref="thank-you-page-2"/>
-    <file name="four-page-copy.css" crc="4037638836" ref="four-page-copy"/>
-    <file name="second-page-copy.css" crc="113496036" ref="second-page-copy"/>
-    <file name="thank-you-page-3.css" crc="66233145" ref="thank-you-page-3"/>
-    <file name="thank-you-page-4.css" crc="3879218876" ref="thank-you-page-4"/>
+    <file name="become-the-emperor_.css" crc="4037638836" ref="become-the-emperor!"/>
+    <file name="thank-you-page-for-king-level-membership.css" crc="66233145" ref="thank-you-page-for-king-level-membership"/>
+    <file name="thank-you-page-for-normal-member.css" crc="3864330704" ref="thank-you-page-for-normal-member"/>
+    <file name="become-the-king_.css" crc="4079840710" ref="become-the-king!"/>
+    <file name="the-special-offer-to-join-my-membership_.css" crc="4133918973" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="thank-you-page-for-emperor-level-membership.css" crc="3879218876" ref="thank-you-page-for-emperor-level-membership"/>
   </folder>
   <folder name="assets">
     <file name="70.jpg" crc="3827401796" seo="true" mt="1611784398000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:second-page:first-name:thank-you-page:third-page:thank-you-page-2:four-page-copy:second-page-copy:thank-you-page-3:thank-you-page-4"/>
-    <file name="museutils.js" crc="3803043152" ref="index:second-page:first-name:thank-you-page:third-page:thank-you-page-2:four-page-copy:second-page-copy:thank-you-page-3:thank-you-page-4"/>
-    <file name="whatinput.js" crc="86476730" ref="index:second-page:first-name:thank-you-page:third-page:thank-you-page-2:four-page-copy:second-page-copy:thank-you-page-3:thank-you-page-4"/>
-    <file name="museconfig.js" crc="380897831" ref="index:second-page:first-name:thank-you-page:third-page:thank-you-page-2:four-page-copy:second-page-copy:thank-you-page-3:thank-you-page-4"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:second-page:first-name:thank-you-page:third-page:thank-you-page-2:four-page-copy:second-page-copy:thank-you-page-3:thank-you-page-4"/>
-    <file name="require.js" crc="4157109226" ref="index:second-page:first-name:thank-you-page:third-page:thank-you-page-2:four-page-copy:second-page-copy:thank-you-page-3:thank-you-page-4"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:thank-you-page:the-special-offer-to-join-my-membership!:become-the-emperor!:thank-you-page-for-normal-member:thank-you-page-for-king-level-membership:thank-you-page-for-emperor-level-membership:become-the-king!"/>
+    <file name="museutils.js" crc="3803043152" ref="index:thank-you-page:the-special-offer-to-join-my-membership!:become-the-emperor!:thank-you-page-for-normal-member:thank-you-page-for-king-level-membership:thank-you-page-for-emperor-level-membership:become-the-king!"/>
+    <file name="whatinput.js" crc="86476730" ref="index:thank-you-page:the-special-offer-to-join-my-membership!:become-the-emperor!:thank-you-page-for-normal-member:thank-you-page-for-king-level-membership:thank-you-page-for-emperor-level-membership:become-the-king!"/>
+    <file name="museconfig.js" crc="380897831" ref="index:thank-you-page:the-special-offer-to-join-my-membership!:become-the-emperor!:thank-you-page-for-normal-member:thank-you-page-for-king-level-membership:thank-you-page-for-emperor-level-membership:become-the-king!"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:thank-you-page:the-special-offer-to-join-my-membership!:become-the-emperor!:thank-you-page-for-normal-member:thank-you-page-for-king-level-membership:thank-you-page-for-emperor-level-membership:become-the-king!"/>
+    <file name="require.js" crc="4157109226" ref="index:thank-you-page:the-special-offer-to-join-my-membership!:become-the-emperor!:thank-you-page-for-normal-member:thank-you-page-for-king-level-membership:thank-you-page-for-emperor-level-membership:become-the-king!"/>
   </folder>
   <folder name="images">
-    <file name="u318-11.png" crc="3961910076" ref="first-name"/>
-    <file name="abc janebrando.jpg" crc="4229892065" seo="true" ref="index:first-name">
-      <caption webpage="index" alt=""/>
-      <caption webpage="first-name" alt=""/>
-    </file>
-    <file name="u493-11.png" crc="261882829" ref="index"/>
-    <file name="u374-4.png" crc="414966603" ref="second-page"/>
-    <file name="u377-4.png" crc="248640405" ref="second-page"/>
-    <file name="blank.gif" crc="4208392903" ref="second-page:thank-you-page:third-page:thank-you-page-2:second-page-copy:thank-you-page-3:thank-you-page-4"/>
-    <file name="u565-8.png" crc="295769006" ref="second-page"/>
-    <file name="u686-8.png" crc="4156953246" ref="third-page"/>
-    <file name="crown_png23.png" crc="107820890" seo="true" ref="four-page-copy:second-page-copy">
-      <caption webpage="third-page-copy" alt=""/>
+    <file name="u493-11.png" crc="485073580" ref="index"/>
+    <file name="u374-4.png" crc="414966603" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u377-4.png" crc="248640405" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="blank.gif" crc="4208392903" ref="thank-you-page:the-special-offer-to-join-my-membership!:thank-you-page-for-normal-member:thank-you-page-for-king-level-membership:thank-you-page-for-emperor-level-membership:become-the-king!"/>
+    <file name="u565-8.png" crc="295769006" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="crown_png23.png" crc="107820890" seo="true" ref="become-the-king!">
       <caption webpage="four-page-copy" alt=""/>
+      <caption webpage="third-page-copy" alt=""/>
+      <caption webpage="become-the-king!" alt=""/>
       <caption webpage="third-page" alt=""/>
       <caption webpage="second-page-copy" alt=""/>
     </file>
-    <file name="coin maker final.png" crc="3971675616" seo="true" ref="four-page-copy:second-page:second-page-copy">
-      <caption webpage="third-page-copy" alt=""/>
+    <file name="coin maker final.png" crc="3971675616" seo="true" ref="the-special-offer-to-join-my-membership!:become-the-king!">
       <caption webpage="four-page-copy" alt=""/>
+      <caption webpage="the-special-offer-to-join-my-membership!" alt=""/>
+      <caption webpage="third-page" alt=""/>
+      <caption webpage="third-page-copy" alt=""/>
+      <caption webpage="become-the-king!" alt=""/>
       <caption webpage="second-page" alt=""/>
-      <caption webpage="third-page" alt=""/>
       <caption webpage="second-page-copy" alt=""/>
     </file>
-    <file name="e22f624e36c255ce2f7ce770db78ed48.png" crc="3791146352" seo="true" ref="four-page-copy">
+    <file name="e22f624e36c255ce2f7ce770db78ed48.png" crc="3791146352" seo="true" ref="become-the-emperor!">
+      <caption webpage="become-the-emperor!" alt=""/>
       <caption webpage="third-page-copy" alt=""/>
       <caption webpage="four-page-copy" alt=""/>
     </file>
-    <file name="e22f624e36c255ce2f7ce770ewdb78ed48.png" crc="533849367" seo="true" ref="four-page-copy">
+    <file name="e22f624e36c255ce2f7ce770ewdb78ed48.png" crc="533849367" seo="true" ref="become-the-emperor!">
+      <caption webpage="become-the-emperor!" alt=""/>
       <caption webpage="third-page-copy" alt=""/>
       <caption webpage="four-page-copy" alt=""/>
     </file>
-    <file name="u1059.png" crc="534029691" ref="second-page"/>
-    <file name="u1059-r.png" crc="3965342653" ref="second-page"/>
-    <file name="u1095.png" crc="310867171" ref="second-page"/>
-    <file name="u1095-r.png" crc="122256796" ref="second-page"/>
+    <file name="u1059.png" crc="534029691" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u1059-r.png" crc="3965342653" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u1095.png" crc="310867171" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u1095-r.png" crc="122256796" ref="the-special-offer-to-join-my-membership!"/>
     <file name="u833-17.png" crc="151046700" ref="thank-you-page"/>
     <file name="u984.png" crc="447987182" ref="thank-you-page"/>
     <file name="u984-r.png" crc="388151126" ref="thank-you-page"/>
-    <file name="crown_png23251x205.png" crc="4160336465" seo="true" ref="third-page">
-      <caption webpage="third-page" alt=""/>
+    <file name="u1107-4-a.png" crc="4263829298" ref="become-the-emperor!"/>
+    <file name="u805-41.png" crc="323987116" ref="become-the-emperor!"/>
+    <file name="u1101-4-a.png" crc="4263829298" ref="become-the-emperor!"/>
+    <file name="u1113-4-a.png" crc="163531637" ref="become-the-emperor!"/>
+    <file name="u1003-17.png" crc="3763730231" ref="thank-you-page-for-normal-member"/>
+    <file name="u1005.png" crc="530923457" ref="thank-you-page-for-normal-member"/>
+    <file name="u1005-r.png" crc="4223491540" ref="thank-you-page-for-normal-member"/>
+    <file name="u1026.png" crc="297618366" ref="thank-you-page-for-normal-member"/>
+    <file name="u1026-r.png" crc="4194025729" ref="thank-you-page-for-normal-member"/>
+    <file name="u1152-20.png" crc="3789418090" ref="thank-you-page-for-king-level-membership"/>
+    <file name="u1156.png" crc="530923457" ref="thank-you-page-for-king-level-membership"/>
+    <file name="u1156-r.png" crc="4223491540" ref="thank-you-page-for-king-level-membership"/>
+    <file name="u1151.png" crc="297618366" ref="thank-you-page-for-king-level-membership"/>
+    <file name="u1151-r.png" crc="4194025729" ref="thank-you-page-for-king-level-membership"/>
+    <file name="u1154.png" crc="3838441004" ref="thank-you-page-for-king-level-membership"/>
+    <file name="u1154-r.png" crc="4092500893" ref="thank-you-page-for-king-level-membership"/>
+    <file name="u1194-23.png" crc="223556153" ref="thank-you-page-for-emperor-level-membership"/>
+    <file name="u1196.png" crc="530923457" ref="thank-you-page-for-emperor-level-membership"/>
+    <file name="u1196-r.png" crc="4223491540" ref="thank-you-page-for-emperor-level-membership"/>
+    <file name="u1193.png" crc="297618366" ref="thank-you-page-for-emperor-level-membership"/>
+    <file name="u1193-r.png" crc="4194025729" ref="thank-you-page-for-emperor-level-membership"/>
+    <file name="u1191.png" crc="3838441004" ref="thank-you-page-for-emperor-level-membership"/>
+    <file name="u1191-r.png" crc="4092500893" ref="thank-you-page-for-emperor-level-membership"/>
+    <file name="u1199.png" crc="507055168" ref="thank-you-page-for-emperor-level-membership"/>
+    <file name="u1199-r.png" crc="3934973371" ref="thank-you-page-for-emperor-level-membership"/>
+    <file name="u1211.png" crc="4197125704" ref="thank-you-page-for-emperor-level-membership"/>
+    <file name="u1211-r.png" crc="4231710348" ref="thank-you-page-for-emperor-level-membership"/>
+    <file name="u1238.png" crc="534029691" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u1238-r.png" crc="3965342653" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u1252-8.png" crc="112164726" ref="become-the-king!"/>
+    <file name="u1254.png" crc="254682640" ref="become-the-king!"/>
+    <file name="u1254-r.png" crc="314083275" ref="become-the-king!"/>
+    <file name="u1248-29.png" crc="450983628" ref="become-the-king!"/>
+    <file name="u1258.png" crc="254682640" ref="become-the-king!"/>
+    <file name="u1258-r.png" crc="314083275" ref="become-the-king!"/>
+    <file name="u1256.png" crc="3859290508" ref="become-the-king!"/>
+    <file name="u1256-r.png" crc="3992161837" ref="become-the-king!"/>
+    <file name="abc v4-crop-u490.jpg" crc="465709876" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="u825.png" crc="4263829298" ref="third-page"/>
-    <file name="u825-r.png" crc="84982210" ref="third-page"/>
-    <file name="u689-29.png" crc="450983628" ref="third-page"/>
-    <file name="u1047.png" crc="4263829298" ref="third-page"/>
-    <file name="u1047-r.png" crc="84982210" ref="third-page"/>
-    <file name="u1053.png" crc="3864337880" ref="third-page"/>
-    <file name="u1053-r.png" crc="3974105476" ref="third-page"/>
-    <file name="u1107-4-a.png" crc="4263829298" ref="four-page-copy"/>
-    <file name="u805-41.png" crc="323987116" ref="four-page-copy"/>
-    <file name="u1101-4-a.png" crc="4263829298" ref="four-page-copy"/>
-    <file name="u1113-4-a.png" crc="163531637" ref="four-page-copy"/>
-    <file name="u1003-17.png" crc="3763730231" ref="thank-you-page-2"/>
-    <file name="u1005.png" crc="530923457" ref="thank-you-page-2"/>
-    <file name="u1005-r.png" crc="4223491540" ref="thank-you-page-2"/>
-    <file name="u1026.png" crc="297618366" ref="thank-you-page-2"/>
-    <file name="u1026-r.png" crc="4194025729" ref="thank-you-page-2"/>
-    <file name="u1152-20.png" crc="3789418090" ref="thank-you-page-3"/>
-    <file name="u1156.png" crc="530923457" ref="thank-you-page-3"/>
-    <file name="u1156-r.png" crc="4223491540" ref="thank-you-page-3"/>
-    <file name="u1151.png" crc="297618366" ref="thank-you-page-3"/>
-    <file name="u1151-r.png" crc="4194025729" ref="thank-you-page-3"/>
-    <file name="u1154.png" crc="3838441004" ref="thank-you-page-3"/>
-    <file name="u1154-r.png" crc="4092500893" ref="thank-you-page-3"/>
-    <file name="u1194-23.png" crc="223556153" ref="thank-you-page-4"/>
-    <file name="u1196.png" crc="530923457" ref="thank-you-page-4"/>
-    <file name="u1196-r.png" crc="4223491540" ref="thank-you-page-4"/>
-    <file name="u1193.png" crc="297618366" ref="thank-you-page-4"/>
-    <file name="u1193-r.png" crc="4194025729" ref="thank-you-page-4"/>
-    <file name="u1191.png" crc="3838441004" ref="thank-you-page-4"/>
-    <file name="u1191-r.png" crc="4092500893" ref="thank-you-page-4"/>
-    <file name="u1199.png" crc="507055168" ref="thank-you-page-4"/>
-    <file name="u1199-r.png" crc="3934973371" ref="thank-you-page-4"/>
-    <file name="u1211.png" crc="4197125704" ref="thank-you-page-4"/>
-    <file name="u1211-r.png" crc="4231710348" ref="thank-you-page-4"/>
-    <file name="u1238.png" crc="534029691" ref="second-page"/>
-    <file name="u1238-r.png" crc="3965342653" ref="second-page"/>
-    <file name="coin maker final240x240.png" crc="300796112" seo="true" ref="third-page">
-      <caption webpage="third-page" alt=""/>
+    <file name="crown_png23358x292.png" crc="4126808420" seo="true" ref="become-the-emperor!">
+      <caption webpage="become-the-emperor!" alt=""/>
     </file>
-    <file name="u1252-8.png" crc="112164726" ref="second-page-copy"/>
-    <file name="u1254.png" crc="254682640" ref="second-page-copy"/>
-    <file name="u1254-r.png" crc="314083275" ref="second-page-copy"/>
-    <file name="u1248-29.png" crc="450983628" ref="second-page-copy"/>
-    <file name="u1258.png" crc="254682640" ref="second-page-copy"/>
-    <file name="u1258-r.png" crc="314083275" ref="second-page-copy"/>
-    <file name="u1256.png" crc="310867171" ref="second-page-copy"/>
-    <file name="u1256-r.png" crc="122256796" ref="second-page-copy"/>
+    <file name="coin maker final310x310.png" crc="244227228" seo="true" ref="become-the-emperor!">
+      <caption webpage="become-the-emperor!" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="129404142" seo="true" mt="1614825525682" redirect="true"/>
-  <file name="second-page.html" crc="4269888492" seo="true" mt="1614837223073" redirect="true"/>
-  <file name="first-name.html" crc="481382066" seo="true" mt="1614362950846" redirect="true"/>
+  <file name="index.html" crc="4220195911" seo="true" mt="1614839766111" redirect="true"/>
   <file name="thank-you-page.html" crc="3845477043" seo="true" mt="1614824740817" redirect="true"/>
-  <file name="third-page.html" crc="4243097815" seo="true" mt="1614837490413" redirect="true"/>
-  <file name="thank-you-page-2.html" crc="250679036" seo="true" mt="1614828261695" redirect="true"/>
-  <file name="four-page-copy.html" crc="3961022897" seo="true" mt="1614828026703" redirect="true"/>
-  <file name="second-page-copy.html" crc="390268509" seo="true" mt="1614838593156" redirect="true"/>
-  <file name="thank-you-page-3.html" crc="246984686" seo="true" mt="1614838851864" redirect="true"/>
-  <file name="thank-you-page-4.html" crc="3861237358" seo="true" mt="1614838856995" redirect="true"/>
+  <file name="the-special-offer-to-join-my-membership!.html" crc="183630184" seo="true" mt="1614839379889" redirect="true"/>
+  <file name="become-the-emperor!.html" crc="78392936" seo="true" mt="1614839379892" redirect="true"/>
+  <file name="thank-you-page-for-normal-member.html" crc="4158602516" seo="true" mt="1614839412781" redirect="true"/>
+  <file name="thank-you-page-for-king-level-membership.html" crc="131012181" seo="true" mt="1614839429013" redirect="true"/>
+  <file name="thank-you-page-for-emperor-level-membership.html" crc="126712092" seo="true" mt="1614839444720" redirect="true"/>
+  <file name="become-the-king!.html" crc="4178306766" seo="true" mt="1614839379890" redirect="true"/>
 </manifest>
