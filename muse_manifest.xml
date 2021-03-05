@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1614928209759">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1614928977879">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4065694985" ref="index"/>
+    <file name="index.css" crc="358636162" ref="index"/>
     <file name="thank-you-page.css" crc="4218015365" ref="thank-you-page"/>
     <file name="thank-you-page-for-king-level-membership.css" crc="66233145" ref="thank-you-page-for-king-level-membership"/>
     <file name="thank-you-page-for-normal-member.css" crc="3864330704" ref="thank-you-page-for-normal-member"/>
@@ -74,7 +74,7 @@
     <file name="u1256_states.png" crc="3859290508" ref="become-the-king!"/>
     <file name="u1256_states-r.png" crc="3992161837" ref="become-the-king!"/>
   </folder>
-  <file name="index.html" crc="178219315" seo="true" mt="1614840759077" redirect="true"/>
+  <file name="index.html" crc="221127387" seo="true" mt="1614928976055" redirect="true"/>
   <file name="thank-you-page.html" crc="3845477043" seo="true" mt="1614824740817" redirect="true"/>
   <file name="the-special-offer-to-join-my-membership!.html" crc="348926111" seo="true" mt="1614928095324" redirect="true"/>
   <file name="thank-you-page-for-normal-member.html" crc="4158602516" seo="true" mt="1614839412781" redirect="true"/>
