@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1615308531200">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1615308653807">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="460793249" ref="index"/>
@@ -6,7 +6,7 @@
     <file name="thank-you-page-for-king-level-membership.css" crc="143142896" ref="thank-you-page-for-king-level-membership"/>
     <file name="thank-you-page-for-normal-member.css" crc="286002617" ref="thank-you-page-for-normal-member"/>
     <file name="become-the-king_.css" crc="486652099" ref="become-the-king!"/>
-    <file name="the-special-offer-to-join-my-membership_.css" crc="3976576487" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="the-special-offer-to-join-my-membership_.css" crc="487676374" ref="the-special-offer-to-join-my-membership!"/>
   </folder>
   <folder name="assets">
     <file name="70.jpg" crc="3827401796" seo="true" mt="1611784398000"/>
@@ -76,7 +76,7 @@
   </folder>
   <file name="index.html" crc="145937495" seo="true" mt="1615308241632" redirect="true"/>
   <file name="thank-you-page.html" crc="386251480" seo="true" mt="1615308175117" redirect="true"/>
-  <file name="the-special-offer-to-join-my-membership!.html" crc="4054668579" seo="true" mt="1615308507254" redirect="true"/>
+  <file name="the-special-offer-to-join-my-membership!.html" crc="3859964222" seo="true" mt="1615308648687" redirect="true"/>
   <file name="thank-you-page-for-normal-member.html" crc="4157132995" seo="true" mt="1615308184851" redirect="true"/>
   <file name="thank-you-page-for-king-level-membership.html" crc="422637838" seo="true" mt="1615308188900" redirect="true"/>
   <file name="become-the-king!.html" crc="3877699374" seo="true" mt="1615308134085" redirect="true"/>
