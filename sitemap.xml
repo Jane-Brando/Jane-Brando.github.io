@@ -53,6 +53,9 @@
     <image:image>
       <image:loc>http://Jane-Brando.github.io/images/abc%202%20v4_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://Jane-Brando.github.io/images/unnamed.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://Jane-Brando.github.io/assets/70.jpg</loc>
