@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1615444240978">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1615444648106">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="thank-you-page-for-normal-member.css" crc="286002617" ref="thank-you-page-for-normal-member"/>
     <file name="thank-you-page-for-king-level-membership.css" crc="143142896" ref="thank-you-page-for-king-level-membership"/>
     <file name="the-special-offer-to-join-my-membership_.css" crc="4047059903" ref="the-special-offer-to-join-my-membership!"/>
     <file name="thank-you-page.css" crc="94256840" ref="thank-you-page"/>
-    <file name="become-the-king_.css" crc="3778268901" ref="become-the-king!"/>
+    <file name="become-the-king_.css" crc="287821191" ref="become-the-king!"/>
     <file name="index.css" crc="460793249" ref="index"/>
   </folder>
   <folder name="assets">
@@ -79,5 +79,5 @@
   <file name="thank-you-page.html" crc="386251480" seo="true" mt="1615308175117" redirect="true"/>
   <file name="thank-you-page-for-normal-member.html" crc="4157132995" seo="true" mt="1615308184851" redirect="true"/>
   <file name="thank-you-page-for-king-level-membership.html" crc="422637838" seo="true" mt="1615308188900" redirect="true"/>
-  <file name="become-the-king!.html" crc="404443182" seo="true" mt="1615444228173" redirect="true"/>
+  <file name="become-the-king!.html" crc="200206606" seo="true" mt="1615444632444" redirect="true"/>
 </manifest>
