@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1615443796598">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1615444048848">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="thank-you-page-for-normal-member.css" crc="286002617" ref="thank-you-page-for-normal-member"/>
     <file name="thank-you-page-for-king-level-membership.css" crc="143142896" ref="thank-you-page-for-king-level-membership"/>
     <file name="the-special-offer-to-join-my-membership_.css" crc="4047059903" ref="the-special-offer-to-join-my-membership!"/>
     <file name="thank-you-page.css" crc="94256840" ref="thank-you-page"/>
-    <file name="become-the-king_.css" crc="3984521775" ref="become-the-king!"/>
+    <file name="become-the-king_.css" crc="3970277398" ref="become-the-king!"/>
     <file name="index.css" crc="460793249" ref="index"/>
   </folder>
   <folder name="assets">
@@ -22,7 +22,7 @@
   <folder name="images">
     <file name="u374-4.png" crc="414966603" ref="the-special-offer-to-join-my-membership!"/>
     <file name="u377-4.png" crc="248640405" ref="the-special-offer-to-join-my-membership!"/>
-    <file name="coin maker final.png" crc="236308298" seo="true" ref="the-special-offer-to-join-my-membership!:become-the-king!">
+    <file name="coin maker final.png" crc="236308298" seo="true" ref="the-special-offer-to-join-my-membership!">
       <caption webpage="the-special-offer-to-join-my-membership!" alt=""/>
       <caption webpage="become-the-king!" alt=""/>
     </file>
@@ -56,7 +56,7 @@
     <file name="u1151-r.png" crc="4194025729" ref="thank-you-page-for-king-level-membership"/>
     <file name="u1154_states.png" crc="3838441004" ref="thank-you-page-for-king-level-membership"/>
     <file name="u1154_states-r.png" crc="4092500893" ref="thank-you-page-for-king-level-membership"/>
-    <file name="crown_png23.png" crc="107820890" seo="true" ref="become-the-king!">
+    <file name="crown_png23.png" crc="3973937331" seo="true" ref="become-the-king!">
       <caption webpage="become-the-king!" alt=""/>
     </file>
     <file name="u1254_states.png" crc="254682640" ref="become-the-king!"/>
@@ -79,5 +79,5 @@
   <file name="thank-you-page.html" crc="386251480" seo="true" mt="1615308175117" redirect="true"/>
   <file name="thank-you-page-for-normal-member.html" crc="4157132995" seo="true" mt="1615308184851" redirect="true"/>
   <file name="thank-you-page-for-king-level-membership.html" crc="422637838" seo="true" mt="1615308188900" redirect="true"/>
-  <file name="become-the-king!.html" crc="3884759547" seo="true" mt="1615443735400" redirect="true"/>
+  <file name="become-the-king!.html" crc="3815861871" seo="true" mt="1615444024148" redirect="true"/>
 </manifest>
