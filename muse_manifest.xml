@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1615597943521">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1615598130604">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="thank-you-page-for-normal-member.css" crc="3826421940" ref="thank-you-page-for-normal-member"/>
     <file name="thank-you-page-for-king-level-membership.css" crc="4214262030" ref="thank-you-page-for-king-level-membership"/>
     <file name="the-special-offer-to-join-my-membership_.css" crc="4047059903" ref="the-special-offer-to-join-my-membership!"/>
-    <file name="thank-you-page.css" crc="4217380224" ref="thank-you-page"/>
+    <file name="thank-you-page.css" crc="3804265077" ref="thank-you-page"/>
     <file name="become-the-king_.css" crc="4025792292" ref="become-the-king!"/>
     <file name="index.css" crc="460793249" ref="index"/>
   </folder>
@@ -41,7 +41,7 @@
     <file name="abc v4-crop-u490.jpg" crc="465709876" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u833-17.png" crc="151046700" ref="thank-you-page"/>
+    <file name="u833-17.png" crc="524373242" ref="thank-you-page"/>
     <file name="u984_states.png" crc="3980582267" ref="thank-you-page"/>
     <file name="u984_states-r.png" crc="3923312715" ref="thank-you-page"/>
     <file name="u1003-17.png" crc="3763730231" ref="thank-you-page-for-normal-member"/>
@@ -76,7 +76,7 @@
   </folder>
   <file name="the-special-offer-to-join-my-membership!.html" crc="4162359054" seo="true" mt="1615443784342" redirect="true"/>
   <file name="index.html" crc="145937495" seo="true" mt="1615308241632" redirect="true"/>
-  <file name="thank-you-page.html" crc="3929239751" seo="true" mt="1615597929067" redirect="true"/>
+  <file name="thank-you-page.html" crc="395789088" seo="true" mt="1615598118943" redirect="true"/>
   <file name="thank-you-page-for-normal-member.html" crc="267994085" seo="true" mt="1615597730063" redirect="true"/>
   <file name="thank-you-page-for-king-level-membership.html" crc="4175687618" seo="true" mt="1615597690555" redirect="true"/>
   <file name="become-the-king!.html" crc="245324680" seo="true" mt="1615597182189" redirect="true"/>
