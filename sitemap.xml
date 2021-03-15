@@ -10,8 +10,14 @@
     </image:image>
   </url>
   <url>
+    <loc>http://Jane-Brando.github.io/thank-you-page.html</loc>
+    <lastmod>2021-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://Jane-Brando.github.io/the-special-offer-to-join-my-membership!.html</loc>
-    <lastmod>2021-03-11</lastmod>
+    <lastmod>2021-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -22,37 +28,10 @@
     </image:image>
   </url>
   <url>
-    <loc>http://Jane-Brando.github.io/thank-you-page.html</loc>
-    <lastmod>2021-03-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Jane-Brando.github.io/thank-you-page-for-king-level-membership.html</loc>
-    <lastmod>2021-03-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://Jane-Brando.github.io/thank-you-page-for-normal-member.html</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Jane-Brando.github.io/become-the-king!.html</loc>
-    <lastmod>2021-03-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://Jane-Brando.github.io/images/abc%202%20v4_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Jane-Brando.github.io/images/crown_png23.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Jane-Brando.github.io/images/unnamed.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://Jane-Brando.github.io/assets/70.jpg</loc>
