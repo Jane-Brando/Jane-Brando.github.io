@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1616413284142">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1616413649650">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3997135801" ref="index"/>
-    <file name="the-special-offer-to-join-my-membership_.css" crc="536533015" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="the-special-offer-to-join-my-membership_.css" crc="4211480849" ref="the-special-offer-to-join-my-membership!"/>
     <file name="thank-you-page.css" crc="3804265077" ref="thank-you-page"/>
     <file name="thank-you-page-for-normal-member.css" crc="4278270997" ref="thank-you-page-for-normal-member"/>
     <file name="become-the-king_.css" crc="148454559" ref="become-the-king!"/>
@@ -82,7 +82,7 @@
       <caption webpage="the-special-offer-to-join-my-membership!" alt=""/>
     </file>
   </folder>
-  <file name="the-special-offer-to-join-my-membership!.html" crc="236209367" seo="true" mt="1616413254244" redirect="true"/>
+  <file name="the-special-offer-to-join-my-membership!.html" crc="4056188454" seo="true" mt="1616413635905" redirect="true"/>
   <file name="index.html" crc="3862465510" seo="true" mt="1616411715321" redirect="true"/>
   <file name="thank-you-page.html" crc="260076805" seo="true" mt="1615613627911" redirect="true"/>
   <file name="thank-you-page-for-normal-member.html" crc="175481370" seo="true" mt="1615613641731" redirect="true"/>
