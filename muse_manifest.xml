@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1616417767433">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1616417939559">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3997135801" ref="index"/>
     <file name="the-special-offer-to-join-my-membership_.css" crc="166875269" ref="the-special-offer-to-join-my-membership!"/>
-    <file name="thank-you-page.css" crc="3804265077" ref="thank-you-page"/>
-    <file name="thank-you-page-for-normal-member.css" crc="73758796" ref="thank-you-page-for-normal-member"/>
+    <file name="thank-you-page.css" crc="3938448309" ref="thank-you-page"/>
+    <file name="thank-you-page-for-normal-member.css" crc="331119849" ref="thank-you-page-for-normal-member"/>
     <file name="become-the-king_.css" crc="148454559" ref="become-the-king!"/>
     <file name="thank-you-page-for-king-level-membership.css" crc="3762533274" ref="thank-you-page-for-king-level-membership"/>
   </folder>
@@ -38,9 +38,8 @@
     <file name="abc v4-crop-u490.jpg" crc="302961540" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u833-17.png" crc="524373242" ref="thank-you-page"/>
-    <file name="u984_states.png" crc="3980582267" ref="thank-you-page"/>
-    <file name="u984_states-r.png" crc="3923312715" ref="thank-you-page"/>
+    <file name="u984_states.png" crc="3936330893" ref="thank-you-page"/>
+    <file name="u984_states-r.png" crc="124431954" ref="thank-you-page"/>
     <file name="u1005_states.png" crc="4153544470" ref="thank-you-page-for-normal-member"/>
     <file name="u1005_states-r.png" crc="4208052893" ref="thank-you-page-for-normal-member"/>
     <file name="u1026_states.png" crc="4228554215" ref="thank-you-page-for-normal-member"/>
@@ -83,11 +82,12 @@
     <file name="u1003-16.png" crc="3970581859" ref="thank-you-page-for-normal-member"/>
     <file name="u1492_states.png" crc="3892734653" ref="thank-you-page-for-normal-member"/>
     <file name="u1492_states-r.png" crc="4202369413" ref="thank-you-page-for-normal-member"/>
+    <file name="u833-16.png" crc="3858791209" ref="thank-you-page"/>
   </folder>
   <file name="the-special-offer-to-join-my-membership!.html" crc="4225793865" seo="true" mt="1616415798365" redirect="true"/>
   <file name="index.html" crc="3862465510" seo="true" mt="1616411715321" redirect="true"/>
-  <file name="thank-you-page.html" crc="260076805" seo="true" mt="1615613627911" redirect="true"/>
-  <file name="thank-you-page-for-normal-member.html" crc="333776362" seo="true" mt="1616417728410" redirect="true"/>
+  <file name="thank-you-page.html" crc="4214324387" seo="true" mt="1616417922712" redirect="true"/>
+  <file name="thank-you-page-for-normal-member.html" crc="4151321004" seo="true" mt="1616417873741" redirect="true"/>
   <file name="thank-you-page-for-king-level-membership.html" crc="3888338249" seo="true" mt="1615851387931" redirect="true"/>
   <file name="become-the-king!.html" crc="3763574157" seo="true" mt="1615851275325" redirect="true"/>
 </manifest>
