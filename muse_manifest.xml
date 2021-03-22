@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1616410678606">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1616410870307">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3928785717" ref="index"/>
+    <file name="index.css" crc="3816145824" ref="index"/>
     <file name="the-special-offer-to-join-my-membership_.css" crc="4273803927" ref="the-special-offer-to-join-my-membership!"/>
     <file name="thank-you-page.css" crc="3804265077" ref="thank-you-page"/>
     <file name="thank-you-page-for-normal-member.css" crc="4278270997" ref="thank-you-page-for-normal-member"/>
@@ -72,10 +72,10 @@
     <file name="u1151_states.png" crc="297618366" ref="thank-you-page-for-king-level-membership"/>
     <file name="u1151_states-r.png" crc="4194025729" ref="thank-you-page-for-king-level-membership"/>
     <file name="u493-8.png" crc="391172250" ref="index"/>
-    <file name="u1446-19.png" crc="75545487" ref="index"/>
+    <file name="u1446-19.png" crc="182611335" ref="index"/>
   </folder>
   <file name="the-special-offer-to-join-my-membership!.html" crc="174469069" seo="true" mt="1615850479529" redirect="true"/>
-  <file name="index.html" crc="495385103" seo="true" mt="1616410671469" redirect="true"/>
+  <file name="index.html" crc="4280037404" seo="true" mt="1616410851106" redirect="true"/>
   <file name="thank-you-page.html" crc="260076805" seo="true" mt="1615613627911" redirect="true"/>
   <file name="thank-you-page-for-normal-member.html" crc="175481370" seo="true" mt="1615613641731" redirect="true"/>
   <file name="thank-you-page-for-king-level-membership.html" crc="3888338249" seo="true" mt="1615851387931" redirect="true"/>
