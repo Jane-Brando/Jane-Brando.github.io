@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1616530392584">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1616530503368">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3997135801" ref="index"/>
-    <file name="the-special-offer-to-join-my-membership_.css" crc="66425748" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="the-special-offer-to-join-my-membership_.css" crc="3959169779" ref="the-special-offer-to-join-my-membership!"/>
     <file name="thank-you-page.css" crc="3938448309" ref="thank-you-page"/>
     <file name="thank-you-page-for-normal-member.css" crc="331119849" ref="thank-you-page-for-normal-member"/>
     <file name="become-the-king_.css" crc="148454559" ref="become-the-king!"/>
@@ -27,15 +27,15 @@
       <caption webpage="the-special-offer-to-join-my-membership!" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="the-special-offer-to-join-my-membership!:thank-you-page:thank-you-page-for-normal-member:thank-you-page-for-king-level-membership:become-the-king!:the-special-offer-to-join-my-membership!-v1"/>
-    <file name="u1238_states.png" crc="534029691" ref="the-special-offer-to-join-my-membership!"/>
-    <file name="u1238_states-r.png" crc="3965342653" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u1238_states.png" crc="454254871" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u1238_states-r.png" crc="118873005" ref="the-special-offer-to-join-my-membership!"/>
     <file name="abc 2 v4_工作區域 1.jpg" crc="49266464" seo="true" ref="the-special-offer-to-join-my-membership!:become-the-king!:the-special-offer-to-join-my-membership!-v1">
       <caption webpage="become-the-king!" alt=""/>
       <caption webpage="the-special-offer-to-join-my-membership!-v1" alt=""/>
       <caption webpage="the-special-offer-to-join-my-membership!" alt=""/>
     </file>
-    <file name="u1059_states.png" crc="3852504820" ref="the-special-offer-to-join-my-membership!"/>
-    <file name="u1059_states-r.png" crc="4282635220" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u1059_states.png" crc="450744595" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u1059_states-r.png" crc="4095014464" ref="the-special-offer-to-join-my-membership!"/>
     <file name="u1095_states.png" crc="310867171" ref="the-special-offer-to-join-my-membership!"/>
     <file name="u1095_states-r.png" crc="122256796" ref="the-special-offer-to-join-my-membership!"/>
     <file name="abc v4-crop-u490.jpg" crc="302961540" seo="true" ref="index">
@@ -102,7 +102,7 @@
     <file name="u1488-6.png" crc="4071713457" ref="the-special-offer-to-join-my-membership!"/>
     <file name="u1520-6.png" crc="4071713457" ref="the-special-offer-to-join-my-membership!-v1"/>
   </folder>
-  <file name="the-special-offer-to-join-my-membership!.html" crc="220326742" seo="true" mt="1616530174306" redirect="true"/>
+  <file name="the-special-offer-to-join-my-membership!.html" crc="4164957602" seo="true" mt="1616530494322" redirect="true"/>
   <file name="index.html" crc="3862465510" seo="true" mt="1616411715321" redirect="true"/>
   <file name="thank-you-page.html" crc="4214324387" seo="true" mt="1616417922712" redirect="true"/>
   <file name="thank-you-page-for-normal-member.html" crc="4151321004" seo="true" mt="1616417873741" redirect="true"/>
