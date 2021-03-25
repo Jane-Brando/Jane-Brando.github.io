@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1616603770944">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1616647918290">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3997135801" ref="index"/>
+    <file name="index.css" crc="434369282" ref="index"/>
     <file name="thank-you-page.css" crc="3938448309" ref="thank-you-page"/>
   </folder>
   <folder name="assets">
@@ -17,7 +17,7 @@
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="thank-you-page"/>
-    <file name="abc v4-crop-u490.jpg" crc="302961540" seo="true" ref="index">
+    <file name="abc v4-crop-u490.jpg" crc="135967855" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u984_states.png" crc="3936330893" ref="thank-you-page"/>
@@ -26,6 +26,6 @@
     <file name="u1446-19.png" crc="342066502" ref="index"/>
     <file name="u833-16.png" crc="3858791209" ref="thank-you-page"/>
   </folder>
-  <file name="index.html" crc="3862465510" seo="true" mt="1616411715321" redirect="true"/>
+  <file name="index.html" crc="4175760778" seo="true" mt="1616647889231" redirect="true"/>
   <file name="thank-you-page.html" crc="4214324387" seo="true" mt="1616417922712" redirect="true"/>
 </manifest>
