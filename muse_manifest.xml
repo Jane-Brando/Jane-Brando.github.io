@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1616687472620">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1616687838619">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="434369282" ref="index"/>
     <file name="thank-you-page.css" crc="3849485840" ref="thank-you-page"/>
-    <file name="second-book.css" crc="4029524574" ref="second-book"/>
+    <file name="second-book.css" crc="4825881" ref="second-book"/>
   </folder>
   <folder name="assets">
     <file name="70.jpg" crc="3827401796" seo="true" mt="1611784398000"/>
@@ -29,13 +29,13 @@
     <file name="u1600_states.png" crc="115819145" ref="thank-you-page"/>
     <file name="u1600_states-r.png" crc="201270627" ref="thank-you-page"/>
     <file name="u1617-13.png" crc="181090058" ref="second-book"/>
-    <file name="u1648_states.png" crc="95363000" ref="second-book"/>
-    <file name="u1648_states-r.png" crc="3840954434" ref="second-book"/>
     <file name="abc 2 v4_工作區域 1.jpg" crc="249526016" seo="true" ref="second-book">
       <caption webpage="second-book" alt=""/>
     </file>
+    <file name="u1661_states.png" crc="115819145" ref="second-book"/>
+    <file name="u1661_states-r.png" crc="201270627" ref="second-book"/>
   </folder>
   <file name="index.html" crc="4175760778" seo="true" mt="1616647889231" redirect="true"/>
   <file name="thank-you-page.html" crc="3775569425" seo="true" mt="1616686560501" redirect="true"/>
-  <file name="second-book.html" crc="497279744" seo="true" mt="1616687467451" redirect="true"/>
+  <file name="second-book.html" crc="125740498" seo="true" mt="1616687833693" redirect="true"/>
 </manifest>
