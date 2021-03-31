@@ -1,176 +1,95 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1617220278948">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1617222641404">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="434369282" ref="index"/>
-    <file name="thank-you-page.css" crc="155198721" ref="thank-you-page"/>
-    <file name="second-book.css" crc="131621158" ref="second-book"/>
-    <file name="membership-thank-you-page.css" crc="3759839804" ref="membership-thank-you-page"/>
-    <file name="alpha-billionaire-s-club-an-unlikely-unraveling-membership.css" crc="31899898" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
-    <file name="membership-thank-you-page-t.css" crc="425613890" ref="membership-thank-you-page-t"/>
+    <file name="index.css" crc="3853683086" ref="index"/>
+    <file name="thank-you-page.css" crc="3804265077" ref="thank-you-page"/>
+    <file name="the-special-offer-to-join-my-membership_.css" crc="160851452" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="become-the-king_.css" crc="4025792292" ref="become-the-king!"/>
+    <file name="thank-you-page-for-king-level-membership.css" crc="4035416365" ref="thank-you-page-for-king-level-membership"/>
+    <file name="thank-you-page-for-normal-member.css" crc="4278270997" ref="thank-you-page-for-normal-member"/>
   </folder>
   <folder name="assets">
     <file name="70.jpg" crc="3827401796" seo="true" mt="1611784398000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:thank-you-page:second-book:membership-thank-you-page:alpha-billionaire-s-club-an-unlikely-unraveling-membership:membership-thank-you-page-t"/>
-    <file name="museutils.js" crc="3803043152" ref="index:thank-you-page:second-book:membership-thank-you-page:alpha-billionaire-s-club-an-unlikely-unraveling-membership:membership-thank-you-page-t"/>
-    <file name="whatinput.js" crc="86476730" ref="index:thank-you-page:second-book:membership-thank-you-page:alpha-billionaire-s-club-an-unlikely-unraveling-membership:membership-thank-you-page-t"/>
-    <file name="museconfig.js" crc="380897831" ref="index:thank-you-page:second-book:membership-thank-you-page:alpha-billionaire-s-club-an-unlikely-unraveling-membership:membership-thank-you-page-t"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:thank-you-page:second-book:membership-thank-you-page:alpha-billionaire-s-club-an-unlikely-unraveling-membership:membership-thank-you-page-t"/>
-    <file name="require.js" crc="4157109226" ref="index:thank-you-page:second-book:membership-thank-you-page:alpha-billionaire-s-club-an-unlikely-unraveling-membership:membership-thank-you-page-t"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:thank-you-page:the-special-offer-to-join-my-membership!:thank-you-page-for-normal-member:thank-you-page-for-king-level-membership:become-the-king!"/>
+    <file name="museutils.js" crc="3803043152" ref="index:thank-you-page:the-special-offer-to-join-my-membership!:thank-you-page-for-normal-member:thank-you-page-for-king-level-membership:become-the-king!"/>
+    <file name="whatinput.js" crc="86476730" ref="index:thank-you-page:the-special-offer-to-join-my-membership!:thank-you-page-for-normal-member:thank-you-page-for-king-level-membership:become-the-king!"/>
+    <file name="museconfig.js" crc="380897831" ref="index:thank-you-page:the-special-offer-to-join-my-membership!:thank-you-page-for-normal-member:thank-you-page-for-king-level-membership:become-the-king!"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:thank-you-page:the-special-offer-to-join-my-membership!:thank-you-page-for-normal-member:thank-you-page-for-king-level-membership:become-the-king!"/>
+    <file name="require.js" crc="4157109226" ref="index:thank-you-page:the-special-offer-to-join-my-membership!:thank-you-page-for-normal-member:thank-you-page-for-king-level-membership:become-the-king!"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="thank-you-page:second-book:alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
-    <file name="abc v4-crop-u490.jpg" crc="135967855" seo="true" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="thank-you-page:the-special-offer-to-join-my-membership!:thank-you-page-for-normal-member:thank-you-page-for-king-level-membership:become-the-king!"/>
+    <file name="abc v4-crop-u490.jpg" crc="465709876" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u984_states.png" crc="3936330893" ref="thank-you-page"/>
-    <file name="u984_states-r.png" crc="124431954" ref="thank-you-page"/>
-    <file name="u493-8.png" crc="391172250" ref="index"/>
-    <file name="u1446-19.png" crc="342066502" ref="index"/>
-    <file name="u833-16.png" crc="3858791209" ref="thank-you-page"/>
-    <file name="u1600_states.png" crc="115819145" ref="thank-you-page"/>
-    <file name="u1600_states-r.png" crc="201270627" ref="thank-you-page"/>
-    <file name="u1617-13.png" crc="181090058" ref="second-book"/>
-    <file name="abc 2 v4_工作區域 1.jpg" crc="249526016" seo="true" ref="second-book">
+    <file name="u984_states.png" crc="3980582267" ref="thank-you-page"/>
+    <file name="u984_states-r.png" crc="3923312715" ref="thank-you-page"/>
+    <file name="u493-8.png" crc="522310548" ref="index"/>
+    <file name="abc 2 v4_工作區域 1.jpg" crc="49266464" seo="true" ref="become-the-king!">
+      <caption webpage="become-the-king!" alt=""/>
       <caption webpage="second-book" alt=""/>
     </file>
-    <file name="u1661_states.png" crc="115819145" ref="second-book"/>
-    <file name="u1661_states-r.png" crc="201270627" ref="second-book"/>
-    <file name="u1755-4.png" crc="455582011" ref="membership-thank-you-page"/>
-    <file name="3.jpg" crc="380377385" seo="true" ref="membership-thank-you-page:membership-thank-you-page-t">
-      <caption webpage="membership-thank-you-page-t" alt=""/>
-      <caption webpage="membership-thank-you-page" alt=""/>
-    </file>
-    <file name="u1758-4.png" crc="380958631" ref="membership-thank-you-page"/>
-    <file name="4.jpg" crc="217054849" seo="true" ref="membership-thank-you-page:membership-thank-you-page-t">
-      <caption webpage="membership-thank-you-page-t" alt=""/>
-      <caption webpage="membership-thank-you-page" alt=""/>
-    </file>
-    <file name="u1771-4.png" crc="4256390343" ref="membership-thank-you-page"/>
-    <file name="5.jpg" crc="28823491" seo="true" ref="membership-thank-you-page:membership-thank-you-page-t">
-      <caption webpage="membership-thank-you-page-t" alt=""/>
-      <caption webpage="membership-thank-you-page" alt=""/>
-    </file>
-    <file name="u1784-4.png" crc="396477949" ref="membership-thank-you-page"/>
-    <file name="1.jpg" crc="4034888731" seo="true" ref="membership-thank-you-page:membership-thank-you-page-t">
-      <caption webpage="membership-thank-you-page-t" alt=""/>
-      <caption webpage="membership-thank-you-page" alt=""/>
-    </file>
-    <file name="u1787-4.png" crc="399722832" ref="membership-thank-you-page"/>
-    <file name="u1807-8.png" crc="462324775" ref="membership-thank-you-page"/>
-    <file name="6-crop-u1797.jpg" crc="4026831477" seo="true" ref="membership-thank-you-page">
-      <caption webpage="membership-thank-you-page" alt=""/>
-    </file>
-    <file name="u1830-10.png" crc="3881783227" ref="membership-thank-you-page"/>
-    <file name="7.jpg" crc="3764344807" seo="true" ref="membership-thank-you-page:membership-thank-you-page-t">
-      <caption webpage="membership-thank-you-page-t" alt=""/>
-      <caption webpage="membership-thank-you-page" alt=""/>
-    </file>
-    <file name="u1863-16.png" crc="257538669" ref="membership-thank-you-page"/>
-    <file name="8.jpg" crc="298818342" seo="true" ref="membership-thank-you-page:membership-thank-you-page-t">
-      <caption webpage="membership-thank-you-page-t" alt=""/>
-      <caption webpage="membership-thank-you-page" alt=""/>
-    </file>
-    <file name="u1879-6.png" crc="3877590360" ref="membership-thank-you-page"/>
-    <file name="u1885-4.png" crc="455582011" ref="membership-thank-you-page"/>
-    <file name="u1898-4.png" crc="380958631" ref="membership-thank-you-page"/>
-    <file name="screenshot_20210331_075344.jpg" crc="401954852" seo="true" ref="membership-thank-you-page:membership-thank-you-page-t">
-      <caption webpage="membership-thank-you-page-t" alt=""/>
-      <caption webpage="membership-thank-you-page" alt=""/>
-    </file>
-    <file name="u1911-4.png" crc="4256390343" ref="membership-thank-you-page"/>
-    <file name="screenshot_20210331_075406.jpg" crc="4138149052" seo="true" ref="membership-thank-you-page:membership-thank-you-page-t">
-      <caption webpage="membership-thank-you-page-t" alt=""/>
-      <caption webpage="membership-thank-you-page" alt=""/>
-    </file>
-    <file name="u1936-4.png" crc="120337886" ref="membership-thank-you-page"/>
-    <file name="screenshot_20210331_075424.jpg" crc="305938657" seo="true" ref="membership-thank-you-page:membership-thank-you-page-t">
-      <caption webpage="membership-thank-you-page-t" alt=""/>
-      <caption webpage="membership-thank-you-page" alt=""/>
-    </file>
-    <file name="u1949-4.png" crc="399722832" ref="membership-thank-you-page"/>
-    <file name="screenshot_20210331_075432.jpg" crc="118842304" seo="true" ref="membership-thank-you-page:membership-thank-you-page-t">
-      <caption webpage="membership-thank-you-page-t" alt=""/>
-      <caption webpage="membership-thank-you-page" alt=""/>
-    </file>
-    <file name="u1989-10.png" crc="3881783227" ref="membership-thank-you-page"/>
-    <file name="screenshot_20210331_084358.jpg" crc="112306360" seo="true" ref="membership-thank-you-page:membership-thank-you-page-t">
-      <caption webpage="membership-thank-you-page-t" alt=""/>
-      <caption webpage="membership-thank-you-page" alt=""/>
-    </file>
-    <file name="u2011-16.png" crc="257538669" ref="membership-thank-you-page"/>
-    <file name="screenshot_20210331_090938.jpg" crc="4023579123" seo="true" ref="membership-thank-you-page:membership-thank-you-page-t">
-      <caption webpage="membership-thank-you-page-t" alt=""/>
-      <caption webpage="membership-thank-you-page" alt=""/>
-    </file>
-    <file name="screenshot_20210331_091013.jpg" crc="402140448" seo="true" ref="membership-thank-you-page:membership-thank-you-page-t">
-      <caption webpage="membership-thank-you-page-t" alt=""/>
-      <caption webpage="membership-thank-you-page" alt=""/>
-    </file>
-    <file name="3-crop-u1790.jpg" crc="287347067" seo="true" ref="membership-thank-you-page">
-      <caption webpage="membership-thank-you-page" alt=""/>
-    </file>
-    <file name="12.jpg" crc="4250613642" seo="true" ref="membership-thank-you-page:membership-thank-you-page-t">
-      <caption webpage="membership-thank-you-page-t" alt=""/>
-      <caption webpage="membership-thank-you-page" alt=""/>
-    </file>
-    <file name="u1702-4.png" crc="242111512" ref="membership-thank-you-page"/>
-    <file name="abc v4-crop-u2273.jpg" crc="135967855" seo="true" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership">
+    <file name="author postscrip.jpg" crc="15981904" seo="true" ref="the-special-offer-to-join-my-membership!">
+      <caption webpage="the-special-offer-to-join-my-membership!" alt=""/>
       <caption webpage="alpha-billionaire-s-club-an-unlikely-unraveling-membership" alt=""/>
     </file>
-    <file name="u2278-19.png" crc="342066502" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
-    <file name="u2285_states.png" crc="86427371" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
-    <file name="u2285_states-r.png" crc="4019414424" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
-    <file name="u2399-4.png" crc="242111512" ref="membership-thank-you-page-t"/>
-    <file name="u2359-4.png" crc="455582011" ref="membership-thank-you-page-t"/>
-    <file name="u2386-4.png" crc="380958631" ref="membership-thank-you-page-t"/>
-    <file name="u2356-4.png" crc="4256390343" ref="membership-thank-you-page-t"/>
-    <file name="u2373-4.png" crc="396477949" ref="membership-thank-you-page-t"/>
-    <file name="u2379-4.png" crc="399722832" ref="membership-thank-you-page-t"/>
-    <file name="3-crop-u2368.jpg" crc="287347067" seo="true" ref="membership-thank-you-page-t">
-      <caption webpage="membership-thank-you-page-t" alt=""/>
-    </file>
-    <file name="u2385-8.png" crc="462324775" ref="membership-thank-you-page-t"/>
-    <file name="6-crop-u2393.jpg" crc="4026831477" seo="true" ref="membership-thank-you-page-t">
-      <caption webpage="membership-thank-you-page-t" alt=""/>
-    </file>
-    <file name="u2377-10.png" crc="3881783227" ref="membership-thank-you-page-t"/>
-    <file name="u2360-16.png" crc="257538669" ref="membership-thank-you-page-t"/>
-    <file name="u2382-6.png" crc="3877590360" ref="membership-thank-you-page-t"/>
-    <file name="u2361-4.png" crc="455582011" ref="membership-thank-you-page-t"/>
-    <file name="u2378-4.png" crc="380958631" ref="membership-thank-you-page-t"/>
-    <file name="u2370-4.png" crc="4256390343" ref="membership-thank-you-page-t"/>
-    <file name="u2395-4.png" crc="120337886" ref="membership-thank-you-page-t"/>
-    <file name="u2401-4.png" crc="399722832" ref="membership-thank-you-page-t"/>
-    <file name="u2383-10.png" crc="3881783227" ref="membership-thank-you-page-t"/>
-    <file name="u2384-16.png" crc="257538669" ref="membership-thank-you-page-t"/>
-    <file name="u2276-4.png" crc="3870744769" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
-    <file name="u2477_states.png" crc="86427371" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
-    <file name="u2477_states-r.png" crc="4019414424" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
-    <file name="u2425-6.png" crc="3945587855" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
-    <file name="u2438-4.png" crc="426342143" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
-    <file name="author postscrip.jpg" crc="3934778842" seo="true" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership">
+    <file name="bb.jpg" crc="301711887" seo="true" ref="the-special-offer-to-join-my-membership!">
+      <caption webpage="the-special-offer-to-join-my-membership!" alt=""/>
       <caption webpage="alpha-billionaire-s-club-an-unlikely-unraveling-membership" alt=""/>
     </file>
-    <file name="u2451-24.png" crc="4287717354" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
-    <file name="u2454-4.png" crc="346952413" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
-    <file name="bb.jpg" crc="3788266864" seo="true" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership">
-      <caption webpage="alpha-billionaire-s-club-an-unlikely-unraveling-membership" alt=""/>
+    <file name="u374-4.png" crc="414966603" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u377-4.png" crc="4091069215" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="coin maker final.png" crc="236308298" seo="true" ref="the-special-offer-to-join-my-membership!">
+      <caption webpage="the-special-offer-to-join-my-membership!" alt=""/>
     </file>
-    <file name="u2467-14.png" crc="3863368398" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
-    <file name="u2473-32.png" crc="270442001" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
-    <file name="u2400-34.png" crc="3765224309" ref="membership-thank-you-page-t"/>
-    <file name="u2376-23.png" crc="4287870615" ref="membership-thank-you-page-t"/>
-    <file name="u2402-25.png" crc="4181481495" ref="membership-thank-you-page-t"/>
-    <file name="u2148-17.png" crc="3832792643" ref="membership-thank-you-page"/>
-    <file name="u1866-24.png" crc="236649524" ref="membership-thank-you-page"/>
-    <file name="u2034-24.png" crc="236649524" ref="membership-thank-you-page"/>
+    <file name="u1238_states.png" crc="534029691" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u1238_states-r.png" crc="3965342653" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u565-7.png" crc="3764562014" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u1465-24.png" crc="4123201918" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u1474-4.png" crc="80878115" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u1487-14.png" crc="140209430" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u1490-32.png" crc="145921354" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u1059_states.png" crc="233866314" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u1059_states-r.png" crc="193041040" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u1095_states.png" crc="4270989210" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u1095_states-r.png" crc="3948545577" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u1446-18.png" crc="223969915" ref="index"/>
+    <file name="u833-17.png" crc="524373242" ref="thank-you-page"/>
+    <file name="u1003-17.png" crc="3763730231" ref="thank-you-page-for-normal-member"/>
+    <file name="u1005_states.png" crc="3886965251" ref="thank-you-page-for-normal-member"/>
+    <file name="u1005_states-r.png" crc="4276733968" ref="thank-you-page-for-normal-member"/>
+    <file name="u1026_states.png" crc="297618366" ref="thank-you-page-for-normal-member"/>
+    <file name="u1026_states-r.png" crc="4194025729" ref="thank-you-page-for-normal-member"/>
+    <file name="u1152-20.png" crc="3789418090" ref="thank-you-page-for-king-level-membership"/>
+    <file name="u1156_states.png" crc="530923457" ref="thank-you-page-for-king-level-membership"/>
+    <file name="u1156_states-r.png" crc="4223491540" ref="thank-you-page-for-king-level-membership"/>
+    <file name="u1151.png" crc="297618366" ref="thank-you-page-for-king-level-membership"/>
+    <file name="u1151-r.png" crc="4194025729" ref="thank-you-page-for-king-level-membership"/>
+    <file name="u1154_states.png" crc="3838441004" ref="thank-you-page-for-king-level-membership"/>
+    <file name="u1154_states-r.png" crc="4092500893" ref="thank-you-page-for-king-level-membership"/>
+    <file name="u1252-12.png" crc="67349602" ref="become-the-king!"/>
+    <file name="crown_png23.png" crc="3973937331" seo="true" ref="become-the-king!">
+      <caption webpage="become-the-king!" alt=""/>
+    </file>
+    <file name="u1254_states.png" crc="254682640" ref="become-the-king!"/>
+    <file name="u1254_states-r.png" crc="314083275" ref="become-the-king!"/>
+    <file name="u1248-14.png" crc="3986084897" ref="become-the-king!"/>
+    <file name="u1380-6.png" crc="3977861686" ref="become-the-king!"/>
+    <file name="unnamed.png" crc="494952590" seo="true" ref="become-the-king!">
+      <caption webpage="become-the-king!" alt=""/>
+    </file>
+    <file name="u1422-26.png" crc="277578995" ref="become-the-king!"/>
+    <file name="u1258_states.png" crc="254682640" ref="become-the-king!"/>
+    <file name="u1258_states-r.png" crc="314083275" ref="become-the-king!"/>
+    <file name="u1256_states.png" crc="4023734757" ref="become-the-king!"/>
+    <file name="u1256_states-r.png" crc="3788154872" ref="become-the-king!"/>
   </folder>
-  <file name="index.html" crc="4175760778" seo="true" mt="1616647889231" redirect="true"/>
-  <file name="thank-you-page.html" crc="275115261" seo="true" mt="1616741249591" redirect="true"/>
-  <file name="second-book.html" crc="4062171211" seo="true" mt="1616741213723" redirect="true"/>
-  <file name="membership-thank-you-page.html" crc="439826426" seo="true" mt="1617203889435" redirect="true"/>
-  <file name="alpha-billionaire-s-club-an-unlikely-unraveling-membership.html" crc="209578988" seo="true" mt="1617219997896" redirect="true"/>
-  <file name="membership-thank-you-page-t.html" crc="358770695" seo="true" mt="1617203390233" redirect="true"/>
+  <file name="index.html" crc="289658617" seo="true" mt="1617221431243" redirect="true"/>
+  <file name="thank-you-page.html" crc="260076805" seo="true" mt="1615613627911" redirect="true"/>
+  <file name="the-special-offer-to-join-my-membership!.html" crc="3870266066" seo="true" mt="1617222522653" redirect="true"/>
+  <file name="thank-you-page-for-normal-member.html" crc="175481370" seo="true" mt="1615613641731" redirect="true"/>
+  <file name="thank-you-page-for-king-level-membership.html" crc="3781649541" seo="true" mt="1615613650726" redirect="true"/>
+  <file name="become-the-king!.html" crc="245324680" seo="true" mt="1615597182189" redirect="true"/>
 </manifest>
