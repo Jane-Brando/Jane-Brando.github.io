@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1617156603052">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1617157031541">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="434369282" ref="index"/>
     <file name="thank-you-page.css" crc="155198721" ref="thank-you-page"/>
     <file name="second-book.css" crc="131621158" ref="second-book"/>
-    <file name="membership-thank-you-page.css" crc="4069907632" ref="membership-thank-you-page"/>
+    <file name="membership-thank-you-page.css" crc="3929497178" ref="membership-thank-you-page"/>
   </folder>
   <folder name="assets">
     <file name="70.jpg" crc="3827401796" seo="true" mt="1611784398000"/>
@@ -35,7 +35,6 @@
     </file>
     <file name="u1661_states.png" crc="115819145" ref="second-book"/>
     <file name="u1661_states-r.png" crc="201270627" ref="second-book"/>
-    <file name="u1702-16.png" crc="3825859001" ref="membership-thank-you-page"/>
     <file name="u1755-4.png" crc="455582011" ref="membership-thank-you-page"/>
     <file name="3.jpg" crc="380377385" seo="true" ref="membership-thank-you-page">
       <caption webpage="membership-thank-you-page" alt=""/>
@@ -102,9 +101,11 @@
     <file name="12.jpg" crc="4250613642" seo="true" ref="membership-thank-you-page">
       <caption webpage="membership-thank-you-page" alt=""/>
     </file>
+    <file name="u1702-4.png" crc="242111512" ref="membership-thank-you-page"/>
+    <file name="u2148-14.png" crc="513657603" ref="membership-thank-you-page"/>
   </folder>
   <file name="index.html" crc="4175760778" seo="true" mt="1616647889231" redirect="true"/>
   <file name="thank-you-page.html" crc="275115261" seo="true" mt="1616741249591" redirect="true"/>
   <file name="second-book.html" crc="4062171211" seo="true" mt="1616741213723" redirect="true"/>
-  <file name="membership-thank-you-page.html" crc="4141789561" seo="true" mt="1617156601400" redirect="true"/>
+  <file name="membership-thank-you-page.html" crc="405516716" seo="true" mt="1617157020476" redirect="true"/>
 </manifest>
