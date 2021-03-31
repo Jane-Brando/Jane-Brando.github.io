@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1617196900613">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1617198005989">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="434369282" ref="index"/>
     <file name="thank-you-page.css" crc="155198721" ref="thank-you-page"/>
     <file name="second-book.css" crc="131621158" ref="second-book"/>
     <file name="membership-thank-you-page.css" crc="3929497178" ref="membership-thank-you-page"/>
-    <file name="alpha-billionaire-s-club-an-unlikely-unraveling-membership.css" crc="413133198" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
+    <file name="alpha-billionaire-s-club-an-unlikely-unraveling-membership.css" crc="367822608" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
     <file name="membership-thank-you-page-t.css" crc="496209794" ref="membership-thank-you-page-t"/>
   </folder>
   <folder name="assets">
@@ -151,7 +151,7 @@
     <file name="u2383-10.png" crc="3881783227" ref="membership-thank-you-page-t"/>
     <file name="u2384-16.png" crc="257538669" ref="membership-thank-you-page-t"/>
     <file name="u2402-20.png" crc="4267072837" ref="membership-thank-you-page-t"/>
-    <file name="u2276-4.png" crc="177362150" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
+    <file name="u2276-4.png" crc="3870744769" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
     <file name="u2477_states.png" crc="86427371" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
     <file name="u2477_states-r.png" crc="4019414424" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
     <file name="u2425-6.png" crc="3945587855" ref="alpha-billionaire-s-club-an-unlikely-unraveling-membership"/>
@@ -171,6 +171,6 @@
   <file name="thank-you-page.html" crc="275115261" seo="true" mt="1616741249591" redirect="true"/>
   <file name="second-book.html" crc="4062171211" seo="true" mt="1616741213723" redirect="true"/>
   <file name="membership-thank-you-page.html" crc="405516716" seo="true" mt="1617157020476" redirect="true"/>
-  <file name="alpha-billionaire-s-club-an-unlikely-unraveling-membership.html" crc="3998170239" seo="true" mt="1617196889059" redirect="true"/>
+  <file name="alpha-billionaire-s-club-an-unlikely-unraveling-membership.html" crc="4128262272" seo="true" mt="1617197995279" redirect="true"/>
   <file name="membership-thank-you-page-t.html" crc="4159772904" seo="true" mt="1617159159205" redirect="true"/>
 </manifest>
