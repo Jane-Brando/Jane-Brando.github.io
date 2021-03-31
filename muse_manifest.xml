@@ -1,20 +1,21 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1616741260910">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1617154484957">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="434369282" ref="index"/>
     <file name="thank-you-page.css" crc="155198721" ref="thank-you-page"/>
     <file name="second-book.css" crc="131621158" ref="second-book"/>
+    <file name="membership-thank-you-page.css" crc="4267048374" ref="membership-thank-you-page"/>
   </folder>
   <folder name="assets">
     <file name="70.jpg" crc="3827401796" seo="true" mt="1611784398000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:thank-you-page:second-book"/>
-    <file name="museutils.js" crc="3803043152" ref="index:thank-you-page:second-book"/>
-    <file name="whatinput.js" crc="86476730" ref="index:thank-you-page:second-book"/>
-    <file name="museconfig.js" crc="380897831" ref="index:thank-you-page:second-book"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:thank-you-page:second-book"/>
-    <file name="require.js" crc="4157109226" ref="index:thank-you-page:second-book"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:thank-you-page:second-book:membership-thank-you-page"/>
+    <file name="museutils.js" crc="3803043152" ref="index:thank-you-page:second-book:membership-thank-you-page"/>
+    <file name="whatinput.js" crc="86476730" ref="index:thank-you-page:second-book:membership-thank-you-page"/>
+    <file name="museconfig.js" crc="380897831" ref="index:thank-you-page:second-book:membership-thank-you-page"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:thank-you-page:second-book:membership-thank-you-page"/>
+    <file name="require.js" crc="4157109226" ref="index:thank-you-page:second-book:membership-thank-you-page"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="thank-you-page:second-book"/>
@@ -34,8 +35,76 @@
     </file>
     <file name="u1661_states.png" crc="115819145" ref="second-book"/>
     <file name="u1661_states-r.png" crc="201270627" ref="second-book"/>
+    <file name="u1702-16.png" crc="3825859001" ref="membership-thank-you-page"/>
+    <file name="u1755-4.png" crc="455582011" ref="membership-thank-you-page"/>
+    <file name="3.jpg" crc="140131005" seo="true" ref="membership-thank-you-page">
+      <caption webpage="membership-thank-you-page" alt=""/>
+    </file>
+    <file name="u1758-4.png" crc="380958631" ref="membership-thank-you-page"/>
+    <file name="4.jpg" crc="217054849" seo="true" ref="membership-thank-you-page">
+      <caption webpage="membership-thank-you-page" alt=""/>
+    </file>
+    <file name="u1771-4.png" crc="4256390343" ref="membership-thank-you-page"/>
+    <file name="5.jpg" crc="28823491" seo="true" ref="membership-thank-you-page">
+      <caption webpage="membership-thank-you-page" alt=""/>
+    </file>
+    <file name="u1784-4.png" crc="396477949" ref="membership-thank-you-page"/>
+    <file name="1.jpg" crc="4034888731" seo="true" ref="membership-thank-you-page">
+      <caption webpage="membership-thank-you-page" alt=""/>
+    </file>
+    <file name="u1787-4.png" crc="399722832" ref="membership-thank-you-page"/>
+    <file name="2.jpg" crc="272986769" seo="true" ref="membership-thank-you-page">
+      <caption webpage="membership-thank-you-page" alt=""/>
+    </file>
+    <file name="u1807-8.png" crc="462324775" ref="membership-thank-you-page"/>
+    <file name="6-crop-u1797.jpg" crc="4164420244" seo="true" ref="membership-thank-you-page">
+      <caption webpage="membership-thank-you-page" alt=""/>
+    </file>
+    <file name="u1830-10.png" crc="3881783227" ref="membership-thank-you-page"/>
+    <file name="7.jpg" crc="414835178" seo="true" ref="membership-thank-you-page">
+      <caption webpage="membership-thank-you-page" alt=""/>
+    </file>
+    <file name="u1863-16.png" crc="257538669" ref="membership-thank-you-page"/>
+    <file name="8.jpg" crc="298818342" seo="true" ref="membership-thank-you-page">
+      <caption webpage="membership-thank-you-page" alt=""/>
+    </file>
+    <file name="u1866-20.png" crc="4267072837" ref="membership-thank-you-page"/>
+    <file name="u1879-6.png" crc="3877590360" ref="membership-thank-you-page"/>
+    <file name="u1885-4.png" crc="455582011" ref="membership-thank-you-page"/>
+    <file name="screenshot_20210331_075314.jpg" crc="256749470" seo="true" ref="membership-thank-you-page">
+      <caption webpage="membership-thank-you-page" alt=""/>
+    </file>
+    <file name="u1898-4.png" crc="380958631" ref="membership-thank-you-page"/>
+    <file name="screenshot_20210331_075344.jpg" crc="401954852" seo="true" ref="membership-thank-you-page">
+      <caption webpage="membership-thank-you-page" alt=""/>
+    </file>
+    <file name="u1911-4.png" crc="4256390343" ref="membership-thank-you-page"/>
+    <file name="screenshot_20210331_075406.jpg" crc="244992992" seo="true" ref="membership-thank-you-page">
+      <caption webpage="membership-thank-you-page" alt=""/>
+    </file>
+    <file name="u1936-4.png" crc="120337886" ref="membership-thank-you-page"/>
+    <file name="screenshot_20210331_075424.jpg" crc="4075830108" seo="true" ref="membership-thank-you-page">
+      <caption webpage="membership-thank-you-page" alt=""/>
+    </file>
+    <file name="u1949-4.png" crc="399722832" ref="membership-thank-you-page"/>
+    <file name="screenshot_20210331_075432.jpg" crc="4275558271" seo="true" ref="membership-thank-you-page">
+      <caption webpage="membership-thank-you-page" alt=""/>
+    </file>
+    <file name="u1989-10.png" crc="3881783227" ref="membership-thank-you-page"/>
+    <file name="screenshot_20210331_084358.jpg" crc="201496432" seo="true" ref="membership-thank-you-page">
+      <caption webpage="membership-thank-you-page" alt=""/>
+    </file>
+    <file name="u2011-16.png" crc="257538669" ref="membership-thank-you-page"/>
+    <file name="screenshot_20210331_090938.jpg" crc="4023579123" seo="true" ref="membership-thank-you-page">
+      <caption webpage="membership-thank-you-page" alt=""/>
+    </file>
+    <file name="screenshot_20210331_091013.jpg" crc="402140448" seo="true" ref="membership-thank-you-page">
+      <caption webpage="membership-thank-you-page" alt=""/>
+    </file>
+    <file name="u2034-20.png" crc="4267072837" ref="membership-thank-you-page"/>
   </folder>
   <file name="index.html" crc="4175760778" seo="true" mt="1616647889231" redirect="true"/>
   <file name="thank-you-page.html" crc="275115261" seo="true" mt="1616741249591" redirect="true"/>
   <file name="second-book.html" crc="4062171211" seo="true" mt="1616741213723" redirect="true"/>
+  <file name="membership-thank-you-page.html" crc="266330177" seo="true" mt="1617154425353" redirect="true"/>
 </manifest>
