@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1617203676225">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1617203900474">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="434369282" ref="index"/>
@@ -164,13 +164,13 @@
     <file name="u2376-23.png" crc="4287870615" ref="membership-thank-you-page-t"/>
     <file name="u2402-25.png" crc="4181481495" ref="membership-thank-you-page-t"/>
     <file name="u2148-17.png" crc="3832792643" ref="membership-thank-you-page"/>
-    <file name="u1866-24.png" crc="4176732074" ref="membership-thank-you-page"/>
-    <file name="u2034-24.png" crc="4176732074" ref="membership-thank-you-page"/>
+    <file name="u1866-24.png" crc="236649524" ref="membership-thank-you-page"/>
+    <file name="u2034-24.png" crc="236649524" ref="membership-thank-you-page"/>
   </folder>
   <file name="index.html" crc="4175760778" seo="true" mt="1616647889231" redirect="true"/>
   <file name="thank-you-page.html" crc="275115261" seo="true" mt="1616741249591" redirect="true"/>
   <file name="second-book.html" crc="4062171211" seo="true" mt="1616741213723" redirect="true"/>
-  <file name="membership-thank-you-page.html" crc="349805741" seo="true" mt="1617203497128" redirect="true"/>
+  <file name="membership-thank-you-page.html" crc="439826426" seo="true" mt="1617203889435" redirect="true"/>
   <file name="alpha-billionaire-s-club-an-unlikely-unraveling-membership.html" crc="453035329" seo="true" mt="1617203670214" redirect="true"/>
   <file name="membership-thank-you-page-t.html" crc="358770695" seo="true" mt="1617203390233" redirect="true"/>
 </manifest>
