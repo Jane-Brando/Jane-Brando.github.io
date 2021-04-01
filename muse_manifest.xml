@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1617312188969">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1617313426508">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="the-special-offer-to-join-my-membership_.css" crc="519887528" ref="the-special-offer-to-join-my-membership!"/>
@@ -21,7 +21,7 @@
   </folder>
   <folder name="images">
     <file name="u374-4.png" crc="369338723" ref="the-special-offer-to-join-my-membership!"/>
-    <file name="u377-4.png" crc="534652396" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u377-4.png" crc="153972767" ref="the-special-offer-to-join-my-membership!"/>
     <file name="coin maker final.png" crc="236308298" seo="true" ref="the-special-offer-to-join-my-membership!">
       <caption webpage="the-special-offer-to-join-my-membership!" alt=""/>
     </file>
@@ -190,7 +190,7 @@
     </file>
     <file name="u1973-10.png" crc="4272625328" ref="the-special-offer-to-join-my-membership!"/>
   </folder>
-  <file name="the-special-offer-to-join-my-membership!.html" crc="182775728" seo="true" mt="1617312111264" redirect="true"/>
+  <file name="the-special-offer-to-join-my-membership!.html" crc="135938681" seo="true" mt="1617313412342" redirect="true"/>
   <file name="index.html" crc="213007673" seo="true" mt="1617226613250" redirect="true"/>
   <file name="thank-you-page.html" crc="4249736493" seo="true" mt="1617225539591" redirect="true"/>
   <file name="thank-you-page-for-membership!.html" crc="434099784" seo="true" mt="1617311992245" redirect="true"/>
