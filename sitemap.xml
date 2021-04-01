@@ -23,6 +23,9 @@
     <image:image>
       <image:loc>http://Jane-Brando.github.io/images/bb.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://Jane-Brando.github.io/images/news.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://Jane-Brando.github.io/thank-you-page.html</loc>
