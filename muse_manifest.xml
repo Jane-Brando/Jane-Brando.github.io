@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1617244517824">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1617312188969">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="the-special-offer-to-join-my-membership_.css" crc="519887528" ref="the-special-offer-to-join-my-membership!"/>
     <file name="become-the-king_.css" crc="4025792292" ref="become-the-king!"/>
-    <file name="thank-you-page-for-membership_.css" crc="4291199448" ref="thank-you-page-for-membership!"/>
+    <file name="thank-you-page-for-membership_.css" crc="4281944402" ref="thank-you-page-for-membership!"/>
     <file name="thank-you-page.css" crc="3934813127" ref="thank-you-page"/>
     <file name="index.css" crc="87885113" ref="index"/>
-    <file name="thank-you-page-for-membership_-for-email-people.css" crc="347886630" ref="thank-you-page-for-membership!-for-email-people"/>
+    <file name="thank-you-page-for-membership_-for-email-people.css" crc="429088210" ref="thank-you-page-for-membership!-for-email-people"/>
   </folder>
   <folder name="assets">
     <file name="70.jpg" crc="3827401796" seo="true" mt="1611784398000"/>
@@ -20,8 +20,8 @@
     <file name="require.js" crc="4157109226" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people"/>
   </folder>
   <folder name="images">
-    <file name="u374-4.png" crc="414966603" ref="the-special-offer-to-join-my-membership!"/>
-    <file name="u377-4.png" crc="4091069215" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u374-4.png" crc="369338723" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u377-4.png" crc="534652396" ref="the-special-offer-to-join-my-membership!"/>
     <file name="coin maker final.png" crc="236308298" seo="true" ref="the-special-offer-to-join-my-membership!">
       <caption webpage="the-special-offer-to-join-my-membership!" alt=""/>
     </file>
@@ -61,7 +61,7 @@
       <caption webpage="thank-you-page-for-membership!-for-email-people" alt=""/>
     </file>
     <file name="u1522-4.png" crc="380958631" ref="thank-you-page-for-membership!"/>
-    <file name="4.jpg" crc="217054849" seo="true" ref="thank-you-page-for-membership!:thank-you-page-for-membership!-for-email-people">
+    <file name="4.jpg" crc="473309856" seo="true" ref="thank-you-page-for-membership!:thank-you-page-for-membership!-for-email-people">
       <caption webpage="thank-you-page-for-membership!" alt=""/>
       <caption webpage="thank-you-page-for-membership!-for-email-people" alt=""/>
     </file>
@@ -190,10 +190,10 @@
     </file>
     <file name="u1973-10.png" crc="4272625328" ref="the-special-offer-to-join-my-membership!"/>
   </folder>
-  <file name="the-special-offer-to-join-my-membership!.html" crc="62925576" seo="true" mt="1617244477987" redirect="true"/>
+  <file name="the-special-offer-to-join-my-membership!.html" crc="182775728" seo="true" mt="1617312111264" redirect="true"/>
   <file name="index.html" crc="213007673" seo="true" mt="1617226613250" redirect="true"/>
   <file name="thank-you-page.html" crc="4249736493" seo="true" mt="1617225539591" redirect="true"/>
-  <file name="thank-you-page-for-membership!.html" crc="3840558232" seo="true" mt="1617229219005" redirect="true"/>
+  <file name="thank-you-page-for-membership!.html" crc="434099784" seo="true" mt="1617311992245" redirect="true"/>
   <file name="become-the-king!.html" crc="245324680" seo="true" mt="1615597182189" redirect="true"/>
-  <file name="thank-you-page-for-membership!-for-email-people.html" crc="3998049964" seo="true" mt="1617229351676" redirect="true"/>
+  <file name="thank-you-page-for-membership!-for-email-people.html" crc="4216490167" seo="true" mt="1617311992199" redirect="true"/>
 </manifest>
