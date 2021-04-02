@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1617328123294">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1617374846480">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="the-special-offer-to-join-my-membership_.css" crc="519887528" ref="the-special-offer-to-join-my-membership!"/>
@@ -8,17 +8,18 @@
     <file name="index.css" crc="302436355" ref="index"/>
     <file name="thank-you-page-for-membership_-for-email-people.css" crc="429088210" ref="thank-you-page-for-membership!-for-email-people"/>
     <file name="second-book.css" crc="4051276804" ref="second-book"/>
+    <file name="alpha-billionaire-s-club-an-unlikely-unraveling-amazon.css" crc="3955071400" ref="alpha-billionaire-s-club-an-unlikely-unraveling-amazon"/>
   </folder>
   <folder name="assets">
     <file name="70.jpg" crc="3827401796" seo="true" mt="1611784398000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people:second-book"/>
-    <file name="museutils.js" crc="3803043152" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people:second-book"/>
-    <file name="whatinput.js" crc="86476730" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people:second-book"/>
-    <file name="museconfig.js" crc="380897831" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people:second-book"/>
-    <file name="jquery.watch.js" crc="99325471" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people:second-book"/>
-    <file name="require.js" crc="4157109226" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people:second-book"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people:second-book:alpha-billionaire-s-club-an-unlikely-unraveling-amazon"/>
+    <file name="museutils.js" crc="3803043152" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people:second-book:alpha-billionaire-s-club-an-unlikely-unraveling-amazon"/>
+    <file name="whatinput.js" crc="86476730" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people:second-book:alpha-billionaire-s-club-an-unlikely-unraveling-amazon"/>
+    <file name="museconfig.js" crc="380897831" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people:second-book:alpha-billionaire-s-club-an-unlikely-unraveling-amazon"/>
+    <file name="jquery.watch.js" crc="99325471" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people:second-book:alpha-billionaire-s-club-an-unlikely-unraveling-amazon"/>
+    <file name="require.js" crc="4157109226" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people:second-book:alpha-billionaire-s-club-an-unlikely-unraveling-amazon"/>
   </folder>
   <folder name="images">
     <file name="u374-4.png" crc="369338723" ref="the-special-offer-to-join-my-membership!"/>
@@ -196,6 +197,11 @@
     </file>
     <file name="u2026_states.png" crc="115819145" ref="second-book"/>
     <file name="u2026_states-r.png" crc="201270627" ref="second-book"/>
+    <file name="u2051-8.png" crc="3811159326" ref="alpha-billionaire-s-club-an-unlikely-unraveling-amazon"/>
+    <file name="abc v4-crop-u2046.jpg" crc="465709876" seo="true" ref="alpha-billionaire-s-club-an-unlikely-unraveling-amazon">
+      <caption webpage="alpha-billionaire-s-club-an-unlikely-unraveling-amazon" alt=""/>
+    </file>
+    <file name="u2050-18.png" crc="223969915" ref="alpha-billionaire-s-club-an-unlikely-unraveling-amazon"/>
   </folder>
   <file name="the-special-offer-to-join-my-membership!.html" crc="135938681" seo="true" mt="1617313412342" redirect="true"/>
   <file name="index.html" crc="139454150" seo="true" mt="1617318200851" redirect="true"/>
@@ -204,4 +210,5 @@
   <file name="become-the-king!.html" crc="245324680" seo="true" mt="1615597182189" redirect="true"/>
   <file name="thank-you-page-for-membership!-for-email-people.html" crc="4216490167" seo="true" mt="1617311992199" redirect="true"/>
   <file name="second-book.html" crc="4127345872" seo="true" mt="1617328112147" redirect="true"/>
+  <file name="alpha-billionaire-s-club-an-unlikely-unraveling-amazon.html" crc="509633984" seo="true" mt="1617374780304" redirect="true"/>
 </manifest>
