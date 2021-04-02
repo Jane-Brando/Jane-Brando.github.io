@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1617327953054">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1617328123294">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="the-special-offer-to-join-my-membership_.css" crc="519887528" ref="the-special-offer-to-join-my-membership!"/>
@@ -7,7 +7,7 @@
     <file name="thank-you-page.css" crc="3934813127" ref="thank-you-page"/>
     <file name="index.css" crc="302436355" ref="index"/>
     <file name="thank-you-page-for-membership_-for-email-people.css" crc="429088210" ref="thank-you-page-for-membership!-for-email-people"/>
-    <file name="second-book.css" crc="10674215" ref="second-book"/>
+    <file name="second-book.css" crc="4051276804" ref="second-book"/>
   </folder>
   <folder name="assets">
     <file name="70.jpg" crc="3827401796" seo="true" mt="1611784398000"/>
@@ -190,7 +190,7 @@
       <caption webpage="the-special-offer-to-join-my-membership!" alt=""/>
     </file>
     <file name="u1973-10.png" crc="4272625328" ref="the-special-offer-to-join-my-membership!"/>
-    <file name="u2007-13.png" crc="4189777195" ref="second-book"/>
+    <file name="u2007-13.png" crc="2369337" ref="second-book"/>
     <file name="abc 2 v4_工作區域 1-crop-u2004.jpg" crc="299203846" seo="true" ref="second-book">
       <caption webpage="second-book" alt=""/>
     </file>
@@ -203,5 +203,5 @@
   <file name="thank-you-page-for-membership!.html" crc="434099784" seo="true" mt="1617311992245" redirect="true"/>
   <file name="become-the-king!.html" crc="245324680" seo="true" mt="1615597182189" redirect="true"/>
   <file name="thank-you-page-for-membership!-for-email-people.html" crc="4216490167" seo="true" mt="1617311992199" redirect="true"/>
-  <file name="second-book.html" crc="3765559730" seo="true" mt="1617327939365" redirect="true"/>
+  <file name="second-book.html" crc="4127345872" seo="true" mt="1617328112147" redirect="true"/>
 </manifest>
