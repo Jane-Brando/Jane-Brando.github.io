@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1617318259469">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Jane-Brando.github.io" resolutions="1x" timestamp="1617327669685">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="the-special-offer-to-join-my-membership_.css" crc="519887528" ref="the-special-offer-to-join-my-membership!"/>
@@ -7,17 +7,18 @@
     <file name="thank-you-page.css" crc="3934813127" ref="thank-you-page"/>
     <file name="index.css" crc="302436355" ref="index"/>
     <file name="thank-you-page-for-membership_-for-email-people.css" crc="429088210" ref="thank-you-page-for-membership!-for-email-people"/>
+    <file name="second-book.css" crc="358643984" ref="second-book"/>
   </folder>
   <folder name="assets">
     <file name="70.jpg" crc="3827401796" seo="true" mt="1611784398000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people"/>
-    <file name="museutils.js" crc="3803043152" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people"/>
-    <file name="whatinput.js" crc="86476730" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people"/>
-    <file name="museconfig.js" crc="380897831" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people"/>
-    <file name="jquery.watch.js" crc="99325471" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people"/>
-    <file name="require.js" crc="4157109226" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people:second-book"/>
+    <file name="museutils.js" crc="3803043152" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people:second-book"/>
+    <file name="whatinput.js" crc="86476730" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people:second-book"/>
+    <file name="museconfig.js" crc="380897831" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people:second-book"/>
+    <file name="jquery.watch.js" crc="99325471" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people:second-book"/>
+    <file name="require.js" crc="4157109226" ref="the-special-offer-to-join-my-membership!:index:thank-you-page:thank-you-page-for-membership!:become-the-king!:thank-you-page-for-membership!-for-email-people:second-book"/>
   </folder>
   <folder name="images">
     <file name="u374-4.png" crc="369338723" ref="the-special-offer-to-join-my-membership!"/>
@@ -25,7 +26,7 @@
     <file name="coin maker final.png" crc="236308298" seo="true" ref="the-special-offer-to-join-my-membership!">
       <caption webpage="the-special-offer-to-join-my-membership!" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="the-special-offer-to-join-my-membership!:thank-you-page:become-the-king!"/>
+    <file name="blank.gif" crc="4208392903" ref="the-special-offer-to-join-my-membership!:thank-you-page:become-the-king!:second-book"/>
     <file name="u1238_states.png" crc="534029691" ref="the-special-offer-to-join-my-membership!"/>
     <file name="u1238_states-r.png" crc="3965342653" ref="the-special-offer-to-join-my-membership!"/>
     <file name="u565-7.png" crc="3764562014" ref="the-special-offer-to-join-my-membership!"/>
@@ -189,6 +190,12 @@
       <caption webpage="the-special-offer-to-join-my-membership!" alt=""/>
     </file>
     <file name="u1973-10.png" crc="4272625328" ref="the-special-offer-to-join-my-membership!"/>
+    <file name="u2007-13.png" crc="4189777195" ref="second-book"/>
+    <file name="abc 2 v4_工作區域 1-crop-u2004.jpg" crc="299203846" seo="true" ref="second-book">
+      <caption webpage="second-book" alt=""/>
+    </file>
+    <file name="u2026_states.png" crc="115819145" ref="second-book"/>
+    <file name="u2026_states-r.png" crc="201270627" ref="second-book"/>
   </folder>
   <file name="the-special-offer-to-join-my-membership!.html" crc="135938681" seo="true" mt="1617313412342" redirect="true"/>
   <file name="index.html" crc="139454150" seo="true" mt="1617318200851" redirect="true"/>
@@ -196,4 +203,5 @@
   <file name="thank-you-page-for-membership!.html" crc="434099784" seo="true" mt="1617311992245" redirect="true"/>
   <file name="become-the-king!.html" crc="245324680" seo="true" mt="1615597182189" redirect="true"/>
   <file name="thank-you-page-for-membership!-for-email-people.html" crc="4216490167" seo="true" mt="1617311992199" redirect="true"/>
+  <file name="second-book.html" crc="4288242324" seo="true" mt="1617327658473" redirect="true"/>
 </manifest>
